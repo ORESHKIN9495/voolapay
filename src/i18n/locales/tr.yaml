@@ -1,0 +1,394 @@
+---
+header:
+  e1: İşletme
+  e2: S.S.S
+  e3: Giriş Yap
+  e4: Kayıt Ol
+
+home:
+  e1: <span>VOOLA PAY</span>'e hoş geldiniz - geleceğin bankası cebinizde!
+  e2: VOOLA PAY, bireyler, serbest çalışanlar ve işletmeler için tasarlanmış, finanslarınızı kolayca yönetmenizi sağlayan çağdaş bir ödeme platformudur. Platformumuzla çok para birimli hesapların avantajlarından yararlanabilir, uluslararası ve yerel ödemeler yapabilir ve finansal işlemleriniz için kapsamlı bir uygulamaya erişebilirsiniz.
+
+how-it-works:
+  e1: Nasıl Çalışır
+  b1:
+    e1: Saniyeler içinde başvurun
+    e2: Başlamak için sadece yerel telefon numaranızı ve geçerli bir kimlik veya pasaport bilgisi sağlayın.
+  b2:
+    e1: Kolayca para yükleyin
+    e2: Voola Pay hesabınıza sorunsuz bir şekilde para yükleyin. Ülkenize bağlı olarak banka kartları, banka transferleri, mobil ödeme, kripto paralar, StableNFT veya fatura ödeme terminalleri gibi seçenekler arasından seçim yapabilirsiniz.
+  b3:
+    e1: Anında erişim elde edin
+    e2: Voola Pay uygulamanıza para yükledikten sonra, ödeme göndermenize olanak tanıyan bir sanal Mastercard'a hemen erişim sağlarsınız.
+  b4:
+    e1: Paranızı istediğiniz zaman ve yerde yönetin
+    e2: Voola Pay ile finanslarınızın tam kontrolünü elinizde bulundurun. Birden fazla ülkeye para gönderin, faturalarınızı kolaylıkla ödeyin, dünya çapında milyonlarca mağazada çevrim içi alışveriş yapın ve sınırlı süreli nakit iadesi tekliflerimizden faydalanın.
+
+virtual-card:
+  e1: Sanal Kart
+  e2: Sanal Mastercard'ımızı kullanarak kolayca alışveriş yapın. Saniyeler içinde kartınıza erişim elde edin ve dünya çapında milyonlarca mağazada çevrim içi alışverişin rahatlığının tadını çıkarın. Satın alımlarınızı daha ödüllendirici hale getirmek için sınırlı süreli nakit iadesi tekliflerimizden faydalanın. Ayrıca, telefonunuzda basit bir dokunuşla sanal kartımızı kullanarak faturalarınızı kolayca ödeyin.
+
+physical-card:
+  e1: Fiziksel Kart
+  e2: Fiziksel Mastercard'ımızı talep edin ve kapınıza teslim edin (tüm bölgelerde mevcut değildir). Hareket halindeyken, istediğiniz zaman ve yerde alışveriş yapmanın özgürlüğünü yaşayın. Küresel olarak 50 milyondan fazla mağazada kabul edilmesi sayesinde, adeta cebinizde nakit taşıyor gibi olacaksınız.
+
+multi-currency:
+  b1:
+    e1: Çok Para Birimli Hesaplar
+    e2: Çok para birimli hesaplarımızla paranızı çeşitli para birimlerinde saklayın. Uluslararası ödemeler yapın, anında harcama bildirimleri alın ve Voola Pay uygulaması içinde harcamalarınızı kolayca takip edin.
+  b2:
+    e1: Yerel ve Uluslararası Ödemeler
+    e2: Şeffaf ücretlerle yerel ve uluslararası ödemeler yapın ve alın, karmaşık tarife planlarına gerek duymadan. L7P.io hesapları arasında ücretsiz ve anında transferlerin keyfini çıkarın.
+  b3:
+    e1: Mükemmel Döviz Kurları
+    e2: Gizli ücretler olmadan rekabetçi interbank döviz kurlarından faydalanın. Popüler para birimleri için istisnai kur avantajlarının tadını çıkarın.
+
+security:
+  e1: Güvenlik
+  e2: Voola Pay olarak, güvenliğinizi ve huzurunuzu önceliklendiriyoruz
+  b1:
+    e1: Ayrılmış UK hesapları
+    e2: 3D Secure
+    e3: İki faktörlü kimlik doğrulama (2FA)
+  e3: Gelişmiş veri şifrelememiz, ödeme bilgilerinizin korunmasını sağlar. Uygulama kullanımınız hakkında bildirimler almak için itme bildirimleri, e-posta uyarıları ve kısa mesajlar aracılığıyla bilgilendirilin. Yardıma ihtiyacınız olduğunda, dost canlısı sohbet destek temsilcilerimiz yardıma hazırdır.
+  e4: Voola Pay ile geleceğin bankacılığına katılın. Bugün kaydolun ve parmaklarınızın ucunda sorunsuz finans yönetimini deneyimleyin.
+
+faq:
+  e1: S.S.S
+  reg:
+    e1: Kayıt
+    b1:
+      e1: Nasıl Kayıt Olunur?
+      e2: Kaydolmak için çevrimiçi formu doldurun ve gerekli belgeleri yükleyin. Bu işlem yaklaşık 10 dakika sürmelidir.
+      e3: Birkaç soruyu yanıtladıktan sonra, ekibimiz başvurunuzu gözden geçirecek ve gerektiğinde ek belgeler isteyebilir. Hesap açma onay süreci genellikle 24 saatten az sürer, ancak bazı durumlarda ek belge veya derinlemesine doğrulama gerekiyorsa daha uzun sürebilir.
+    b2:
+      e1: Neden Kayıt Olamıyorum?
+      e2: Kaydolmak için çevrimiçi formu doldurun ve gerekli belgeleri yükleyin. Bu işlem yaklaşık 10 dakika sürmelidir.
+      u:
+        e1: Yasaklı sektör
+        e2: Uygun olmayan şirket türü
+        e3: Sanksiyon altındaki bir ülkede ikamet etmek
+    b3:
+      e1: Hangi Endüstriler Desteklenmiyor?
+      e2: 'Kayıt olamamanızın birkaç nedeni olabilir:'
+      u:
+        e1: Yasal olmayan kumarhaneler
+        e2: Silah tüccarları
+        e3: Yasal olmayan uyuşturucular
+        e4: Kimliği belirsiz hesaplar veya hesaplarını gizli bir isim altında tutmak isteyen müşteriler
+        e5: İnsan ticareti
+        e6: Fiziksel varlık veya personel olmayan bankalar
+        e7: Çevrim içi yetişkin içerik, web kamerası, saldırgan yetişkin içeriği ve canlı yetişkin içeriği kategorileri
+        e8: Yetişkin içerikli reklamlar
+        e9: Çocuk pornosu
+        e10: Zoofili
+        e11: Cinsel şiddet/Nefret söylemi/Şiddet
+        e12: Telif hakkı ihlali
+    b4:
+      e1: VoolaPay Tarafından Desteklenmeyen Ülkeler ve Bölgeler
+      u:
+        e1: Mali
+        e2: Fas
+        e3: Nijerya
+        e4: Liberya
+        e5: Orta Afrika Cumhuriyeti
+        e6: Gazze Şeridi
+        e7: Gine
+        e8: Senegal
+        e9: St Maarten
+        e10: Burundi
+        e11: Arnavutluk
+        e12: Sudan
+        e13: Kamboçya
+        e14: Amerika Virjin Adaları
+        e15: Barbados
+        e16: Cayman Adaları
+        e17: Jamaika
+        e18: Gana
+        e19: Kongo Demokratik Cumhuriyeti
+        e20: Gine-Bissau
+        e21: Haiti
+        e22: Batı Şeria
+        e23: Zimbabve
+        e24: Libya
+        e25: Rusya
+        e26: Belarus
+        e27: Güney Sudan
+        e28: Panama
+        e29: Pakistan
+        e30: Irak
+        e31: Somali
+        e32: Nikaragua
+        e33: Myanmar
+        e34: Suriye
+        e35: Yemen
+        e36: Afganistan
+        e37: Kuzey Kore
+        e38: İran İslam Cumhuriyeti
+    b5:
+      e1: Seifguarding Nedir?
+      e2: Bu, İngiliz finansal düzenleyicisi tarafından müşteri fonlarını korumak için öngörülen özel bir prosedürdür. Seifguarding, tüm müşteri paralarının VoolaPay'de değil, Avrupa Merkez Bankalarında ve Avrupa ve Büyük Britanya'daki büyük bankalarda (sözde "müşteri para hesapları") özel hesaplarda tutulması anlamına gelir. Bu hesaplar diğer hesaplardan ayrıdır ve tamamen dokunulmazdır.
+  curr:
+    e1: Vadesiz Hesap
+    b1:
+      e1: Bir Vadesiz Hesap Nasıl Açılır?
+      e2: VoolaPay vadesiz hesabı uzaktan açabilirsiniz. Web sitemizde kısa bir kayıt formunu doldurmanız yeterlidir ve hesap açma sürecinize özel olarak gereken belgelere rehberlik edeceğiz.
+    b2:
+      e1: Hesabım Ne Kadar Hızlı Açılır ve Bunun Neye Bağlı Olduğu?
+      e2: Hesap açma hızı, müşterinin gereksinimleri tam olarak karşılayan belgeleri ne kadar hızlı sağladığına bağlıdır. Ortalama olarak, tüzel kişiler VoolaPay vadesiz hesabını 1 iş günü içinde açabilirler.
+    b3:
+      e1: Hesabınızı Nasıl Doldurursunuz?
+      e2: 'Hesap bakiyenizi doldurmanın birkaç yolu vardır:'
+      u:
+        e1: Kişisel kabininizdeki başka bir VoolaPay hesabından para transferi.
+        e2: Başka bir bankadaki bir hesaptan para transferi.
+        e3: Ödeme kartınızla hesabınızı doldurun.
+        e4: Desteklenen kripto paralarla hesabınızı doldurun.
+        e5: StableNFT ödeme sistemi aracılığıyla hesabınızı doldurun.
+      e3: Lütfen unutmayın ki maksimum kart doldurma tutarı işlem başına 2.000 € ve haftada bir kart başına 10.000 €'dur.
+    b4:
+      e1: Kişisel Hesabıma Erişmek İçin SMS Kodu Almadım. Ne Yapmalıyım?
+      e2: 5 dakika içinde SMS doğrulama kodu almadıysanız, "Kodu yeniden gönder" düğmesini tıklayarak yeni bir SMS kodu isteyin. Doğrulama koduyla ilgili bir mesajı bir dakika içinde almanız gerekmektedir. Bu sorunu çözmezse, cihazınızı yeniden başlatmayı ve mobil ağınızı kontrol etmeyi deneyin. Ayrıca, e-posta ve G2FA gibi alternatif yöntemlerle kişisel hesabınıza giriş yapabilirsiniz.
+  master:
+    e1: Voola Pay Mastercard
+    b1:
+      e1: Yeni Bir Kart Nasıl Sipariş Edilir?
+      e2: VoolaPay vadesiz hesabınızda bir kart sipariş edebilirsiniz. Sol gezinme menüsünde "Kartlar" bölümünü seçin, "Kart Siparişi" düğmesine tıklayın, gerekli bilgileri doldurun ve başvurunuzu gönderin. Ayrıca, VoolaPay mobil uygulamasında "Kartlar" bölümünde bir kart sipariş edebilirsiniz.
+    b2:
+      e1: Kaç Adet Ödeme Kartım Olabilir?
+      e2: Bir kişi adına 3 aktif kart (sanal dahil) sahip olabilir.
+    b3:
+      e1: Kart Teslim Süreleri ve Kart Teslim Seçenekleri Nelerdir?
+      e2: 'Kart teslimi iki yöntemle mevcuttur:'
+      u:
+        e1: 'Standart posta teslimatı: 5-12 iş günü'
+        e2: 'UPS kurye servisi: 1-3 iş günü'
+      e3: Lütfen bunların yaklaşık teslim süreleri olduğunu ve belirli bir teslim tarihi garanti edemeyeceğimizi unutmayın.
+
+business:
+  e1: <span>VOOLA PAY</span> ile İş Hesabı
+  acc:
+    b1:
+      e1: Kişisel Yönetici ve %100 Fon Güvenliği
+      e2: Avrupa ve uluslararası işletmeler için hızlı ödeme deneyimi yaşayın. Kişisel bir yöneticinin avantajlarından ve fonlarınızın tam güvenliğinden faydalanın.
+    b2:
+      e1: Hesap Açın
+      e2: Hızlı ve teknik sınırlamalar olmadan transfer yapın. Büyük işletmelerle nasıl çalışılacağını anlıyoruz, bu yüzden ödemeleriniz sadece "büyük" oldukları için takılmaz. Ödeme limitleri, şirketinizin cirosu ve özelliklerine göre belirlenir. Daha Fazla Bilgi Edinin
+    b3:
+      e1: İngiltere Hesabının Avantajlarından Yararlanın
+      e2: İngiltere, dünya genelinde en saygın yargı bölgelerinden biridir. Şeffaf ve açık finansal düzenleyici kurallar, işletmelerin gelişmesine yardımcı olur. Müşteri bilgilerimiz tamamen gizlidir, ancak hissedarlarımızın bilgileri herkese açık ve erişilebilirdir. Daha Fazla Bilgi Edinin
+  pay:
+    b1:
+      e1: İşletmenizi Bizimle Büyütün
+      e2: Küresel ödeme sistemleri ve finansal enstrümanlarımızı kullanarak işletmenizi geliştirin. Toplu ödemeler, API entegrasyonu, maaş projeleri, ödeme geçitleri, teminatlı krediler ve işletme mevduatı gibi çeşitli özellikler sunuyoruz.
+    b2:
+      e1: Paranızın Güvenli Olduğundan Emin Olun
+      e2: FCA güvenlik gerekliliklerine uygun olarak, müşterilerimizin fonları koruma altındadır. Müşteri paraları, Voola Pay'ın kendi fonlarından ayrılmış şekilde, ayrı hesaplarda saklanır. Müşteri paralarını saklamak için kullandığımız kredi kuruluşlarını (bankaları) özenle seçer ve izleriz ve bu kuruluşların hesaplardaki fonlara herhangi bir hakları olmadığından emin oluruz. Bu, bankaların veya Voola Pay'in iflas durumunda bile müşterilerimizin paralarının korunmasını sağlar. Daha Fazla Bilgi Edinin
+    b3:
+      e1: Finansal Kontrolünüzü Saat Kavramından Bağımsız Olarak Sürdürün
+      e2: Voola Pay Mastercard işletme kartıyla dünya genelindeki tüm para birimlerinde temassız ödemeler yapın. Ödeme kartı ve teslimat, hesap açma maliyetine dahildir. Çevrimiçi işlemlerde ek güvenlik için sanal kartı kullanın. Sorunsuz ödemeler için mobil cüzdanın rahatlığından faydalanın. Daha Fazla Bilgi Edinin
+    b4:
+      e1: 66 ülkeden binlerce memnun müşteri.
+      e2: Başarılı fintech piyasası deneyimiyle 7 yıl.
+      e3: Müşterilerimiz için ortalama hesap açma süresi 9.3 saat.
+    b5:
+      e1: Teknolojik İlerlemelerin Keyfini Çıkarın
+      e2: Akıllı telefonunuzu kod hesaplayıcısı yerine kullanın. Farklılaştırılmış haklara sahip çoklu hesap erişimi. İşletme hesabınız ve kişisel hesabınız için kullanılabilen iOS/Android mobil uygulamasıyla hesaplar arasında tek bir tıklamayla geçiş yapın.
+  dev:
+    e1: İşletmenizde <span>VOOLA PAY</span> ile Gelişin
+    b1:
+      e1: 'Toptan Ticaret: Cirolarınızı Artırın'
+      e2: Yöneticilerimiz, mal, faturalar, özellikler, CMR'ler ve diğer eşlik eden belgelerin özelliklerini anlar. Üçüncü ülkelere, üçüncü ülke para birimleri dahil olmak üzere ödemelerden yararlanın. SEPA Anında ödemelerini ve diğer kanalları etkinleştirin. Bir maaş projesi uygulayın.
+    b2:
+      e1: 'E-ticaret: Pazarınızı Geliştirin'
+      e2: Hızlı SEPA Anında ödemelerden, artırılmış güvenlikten ve bir maaş projesinden yararlanın. İdari faaliyetler ve ödemeler için iki hesap kullanın. Uzman teknik destek ve kişisel yönetici alın.
+    b3:
+      e1: 'Lojistik: Zaman ve Para Tasarrufu Yapın'
+      e2: İşletme hesabı açmak için açık ve net gereksinimlerden yararlanın. Üçüncü ülkelerle teknik sınırlamalar olmaksızın, üçüncü ülke para birimleri dahil ödemeler yapın. Kişisel yöneticilerimiz, gümrük belgeleri ve nakliye özellikleri de dahil olmak üzere ulaştırma belgeleri konusunda uzmanlığa sahiptir. Nakliye gibi niş alanlar da dahil olmak üzere hızlı para birimi dönüşümlerinden yararlanın. Bir maaş projesi uygulayın.
+    b4:
+      e1: 'Fintech: Kolayca Bağlanın'
+      e2: SEPA ve CHAPS dahil olmak üzere birden çok ödeme kanalına erişin. Fintech işletmeleri için özel olarak tasarlanmış rahat bir kayıt sürecinden faydalanın. İdari faaliyet hesabı, iş ortaklarıyla müşteri fonları hesabı, koruma hesabı ve duyarlı destekten yararlanın.
+    b5:
+      e1: 'Oyun: Anında Fon Alın'
+      e2: 'İş Hesabı API ve Mastercard banka kartları aracılığıyla toplu ödemeler yapın. İş Hesabı Hızlı ödeme almak ve göndermek için SEPA Anında ve Açık Bankacılık API siyle doğrudan entegrasyon. İş Hesabı Kart ödemeleri yerine ödeme sistemleriyle entegrasyon: şarjbacks olmadan anında satıcı ödemeleri.'
+    b6:
+      e1: Üçüncü Ülkelerle Çalışın
+      e2: Üçüncü ülkelerle ödemeleri kabul edin ve gönderin. Kişisel hesabınızda doğrudan uygun kurla para birimi dönüştürün.
+    b7:
+      e1: Emin Olun
+      e2: Voola Pay, kendinden emin ve istikrarlı bir şekilde fintech platformunu geliştiriyor, yeni ürünler ekliyor ve mevcutları geliştiriyor. Amacımız kendimizi ve müşterilerimizi büyütmektir.
+
+privacy:
+  e1: Gizlilik Politikası
+  b1:
+    e1: L7P Ltd ("L7P") Gizlilik Politikasına hoş geldiniz. Lütfen kendinizle veya başka bir kişiyle ilgili kişisel bilgileri sağlamadan önce dikkatlice okuyun.
+    e2: L7P (bundan sonra "L7P") Gizlilik Politikası'na hoş geldiniz. Lütfen kendinizle veya başka bir kişiyle ilgili kişisel bilgileri sağlamadan önce dikkatlice okuyun. Sodalitium Limited (bundan sonra "Salazar Pay"), zaman zaman Xward Pay Inc. (bundan sonra "XWARD", "biz", "bizim" veya "bize") ve ortakları tarafından işletilen bir Platformdur. Veri koruma yasalarına ilişkin olarak, XWARD, sizden veya sizinle ilgili olarak alınan veya başka şekilde toplanan kişisel verilerin kullanımının "Genel Veri Koruma Tüzüğü" ("GDPR") kapsamındaki veri koruma yasalarına uygun olduğundan emin olur. Kişisel verilerinizi işleyen denetleyici olarak, tarafımızca gerçekleştirilen herhangi bir işlemin "yöntemini" ve "amacını" belirleriz.
+    e3: XWARD'ın Avrupa temsilcisi, Litvanya, Vilnius'ta bulunan Afacomp UAB'dir. A. Tumeno cad. 4, 01109.
+  b2:
+    e1: Arka Plan
+    e2: Hizmetlerimize katılmak isteyen gerçek ve tüzel kişilerle ilgili belirli türde bilgilerin toplanması ve kullanılması gerekmektedir.
+    e3: Kişisel bilgiler, AML Politikası ve bu Gizlilik Politikası çerçevesinde uygun şekilde toplanmalı ve işlenmelidir ve GDPR ve uluslararası standartlar uyarınca düzenlenmiştir.
+    e4: GDPR ve uluslararası standartların hükümlerine göre, mevcut politika uyarınca bilgisini sağlayan herhangi bir Kullanıcı, bilgi toplamanın nedenini anladığını ve bilgilerin para aklama önleme amaçları için işlenmesine onay verdiğini onaylar.
+    e5: Herhangi bir Kullanıcı, kişisel verilerinin işlemlerinden kimin sorumlu olduğunu bilmeye hak sahiptir.
+    e6: İşletmemiz boyunca toplanan veriler, kağıt üzerinde toplanmış olsa da, bilgisayar veritabanında saklanmış olsa da veya diğer materyallerde kaydedilmiş olsa da, bu politikaya tabidir ve geçerli yasa ve GDPR hükümleri kapsamında veri kontrolü ve işlemeye ilişkin olarak korunmaktadır.
+  b3:
+    e1: Bu Politika Ne Hakkında Geçerlidir?
+    e2: Bu Gizlilik Politikası, sadece web sitemizin kullanımına uygulanır. Web sitesi, diğer web siteleri tarafından verilerinizin nasıl toplandığı, depolandığı veya kullanıldığı üzerinde hiçbir kontrolümüz olmadığını lütfen unutmayın ve bu tür web sitelerine veri sağlamadan önce gizlilik politikalarını kontrol etmenizi öneririz.
+  b4:
+    e1: Kişisel Veri Nedir?
+    e2: Kişisel veri, Kişisel Bilgi Koruma ve Elektronik Belgeler Kanunu tarafından "doğrudan veya dolaylı olarak tanımlanabilen kimlik belirleyici bir işarete başvurularak özellikle bir kimliği belirleyen herhangi bir bilgi" olarak tanımlanmaktadır.
+    e3: Daha basit bir ifadeyle, kişisel veri, sizi tanımlamanıza olanak sağlayan herhangi bir bilgidir. Kişisel veri, adınız ve iletişim bilgileriniz gibi bilgileri kapsar, ancak aynı zamanda kimlik numaraları, elektronik konum verileri ve diğer çevrimiçi belirteçler gibi daha açık olmayan bilgileri de içerir.
+  b5:
+    e1: Hangi Verileri Topluyoruz?
+    e2: Ürünlerimiz ve/veya hizmetlerimizin kullanımı için başvuruda bulunduğunuzda sizinle işimiz çerçevesinde kişisel bilgi topluyoruz. Bu bilgiler, onayınızla veya yasalar tarafından izin verilen veya gerektirilen şekilde toplanır.
+    e3: 'Web sitemizi kullanımınıza bağlı olarak, sağladığınız veya sizden istediğimiz ve topladığımız kişisel bilgiler aşağıdakileri içerebilir:'
+    e4: 'Kimlik Verileri:'
+    u1:
+      e1: ad,
+      e2: soyad,
+      e3: unvan,
+      e4: doğum tarihi ve cinsiyet,
+      e5: yüz tanıma amacıyla biyometrik bilgiler,
+      e6: ulusal kimlik kartı, pasaport, ehliyet veya diğer kimlik belgeleri gibi kimlik belgeleri.
+    e5: 'Kimlikle İlgili Veriler:'
+    u2:
+      e1: risk değerlendirmesi,
+      e2: uyumluluk değerlendirmesi.
+    e6: 'İletişim Verileri:'
+    u3:
+      e1: ikametgah bilgileri,
+      e2: fatura adresi,
+      e3: teslimat adresi,
+      e4: e-posta adresi ve telefon numaraları,
+      e5: adres belgesi.
+    e7: 'Finansal Veriler:'
+    u4:
+      e1: banka hesap bilgileri,
+      e2: ödeme kartı bilgileri,
+      e3: hesaplarla ilişkili miktarlar,
+      e4: dış hesap bilgileri,
+      e5: kaynak fonu ve ilgili belgeler.
+    e8: 'İşlem Verileri:'
+    u5:
+      e1: gelen ve giden ödeme detayları,
+      e2: Hizmetler, Web Sitesi veya Uygulama kullanarak girdiğiniz herhangi bir işleme ilişkin diğer detaylar.
+    e9: 'Teknik Veriler:'
+    u6:
+      e1: internet bağlantı verileri,
+      e2: IP adresi,
+      e3: işletmeci ve taşıyıcı verileri,
+      e4: oturum açma verileri,
+      e5: tarayıcı türü ve sürümü,
+      e6: cihaz türü, kategorisi ve modeli,
+      e7: saat dilimi ve konum verileri,
+      e8: dil verileri,
+      e9: tarayıcı eklenti türleri ve sürümleri,
+      e10: işletim sistemi ve platform,
+      e11: çökme günlükleri ve Web Sitesi'ni ziyaret ettiğinizde, Hizmetler veya Uygulamayı kullandığınızda bize erişim izin verdiğiniz cihazlar hakkında diğer bilgiler dahil teknik teşhis ölçümleri için ve diğer bilgilerin kaydedildiği veya kullanılabilir hale getirildiği bilgileri de içerir.
+    e10: 'Profil Verileri:'
+    u7:
+      e1: kullanıcı adınız ve şifreniz,
+      e2: kullanıcı olarak kimlik numaranız,
+      e3: ürün veya hizmet talepleriniz,
+      e4: ilgi alanlarınız, tercihleriniz ve geribildirimleriniz,
+      e5: müşteri destek ekibimizle iletişim kurarken tarafınızca oluşturulan diğer bilgiler.
+    e11: Bu bilgiler kağıt üzerinde, taranmış veya faks yoluyla, telefon, e-posta, sözlü görüşmeler, yüz yüze etkileşimler veya Web Sitesi veya Uygulamamız aracılığıyla alınan veriler yoluyla toplanabilir. Bu bilgiler, sizinle ilgili olarak topladığımız bilgileri ve sizinle işlem yaptığımız diğer bireyleri içerecektir; bunlar karşı taraflar veya fonlar veya hizmetlerin alıcıları olabilir.
+    e12: Bu bilgileri çalışanlarımız, bağlı kuruluşlarımız ve çevrimiçi kaynaklar, hükümet kurumları veya iş ortakları veya tüketici raporlama kuruluşları aracılığıyla toplayabiliriz veya siz başvuruda bulunduğunuzda bize önceden kendiniz tarafından sağlanabilir.
+    e13: Biyometrik veriler dışında "Hassas Verileri" işlemiyoruz, ancak bu durum, bir doğal kişiyi benzersiz olarak tanımlamak amacıyla işlenen biyometrik verileri içerir.
+  b6:
+    e1: Kişisel Verileriniz Nasıl Kullanılır?
+    e2: 'Geçerli yasa uyarınca kişisel verilerin kullanımı için her zaman yasal bir dayanağımız olmalıdır. Bu, verilerin size olan hizmetlerimizi sunmamız ve sizinle olan sözleşmemizin yerine getirilmesi için gereklidir, kişisel verilerinizi kullanmamıza onay vermiş olmanız veya meşru iş çıkarlarımıza uygun olması nedeniyle olabilir. Kişisel verileriniz aşağıdaki amaçlardan biri için kullanılabilir:'
+    u:
+      e1: Web Sitemiz veya Uygulamamıza erişiminizi sağlamak ve yönetmek;
+      e2: Ürün ve hizmetlerimizi size sağlamak;
+      e3: Sizinle iletişim kurmak;
+      e4: Kendi hesap ve kayıtlarımızı tutmak;
+      e5: Yasa ve düzenleyici yükümlülüklerimize uygun olarak işlem yapmak;
+      e6: Web sitemizin kullanımınızı analiz etmek ve sürekli olarak iyileştirmek ve kullanıcı deneyiminizi geliştirmek için.
+  b7:
+    e1: Tamamen İptal Etme Seçeneği
+    e2: İletişim bilgilerinizi ve hizmet tercihlerinizle ilgili bilgileri pazarlama ve talep amaçlarıyla size teklifler veya promosyonlar göndermek için kullanabiliriz. Bu bölümde açıklanan amaçlar için bilgi açıklamasından "vazgeçmek" veya bilginin açıklanmasına verdiğiniz izni her zaman bizimle iletişime geçerek geri çekebilirsiniz.
+  b8:
+    e1: Kişisel Verileriniz Ne Kadar Süreyle Saklanır?
+    e2: Kişisel verilerinizi size hizmet sunabilmemiz için gereken süre boyunca veya bize tabi olduğumuz tüm ilgili yasal ve düzenleyici yükümlülükleri sağlamak için verileri işlememiz gerekebilecek daha uzun süreler boyunca saklayacağız.
+  b9:
+    e1: Kişisel Verileriniz Nasıl ve Nerede Saklanır?
+    e2: 'Kişisel veriler hem manuel hem de elektronik olarak işlenir ve tipik bir işletmenin operasyonlarıyla uyumlu olarak birkaç farklı yerde saklanabilir. Kişisel verilerinizin saklanabileceği yerler şunları içerebilir, ancak bunlarla sınırlı değildir:'
+    u:
+      e1: Veritabanlarımız ve Müşteri İlişkileri Yönetimimiz;
+      e2: Bilgisayarlardaki e-postalar;
+      e3: Cep telefonları ve tabletler;
+      e4: İletişim adres defterleri;
+      e5: İş kartları;
+      e6: Not defterleri;
+      e7: Dosya sunucularımızda elektronik belgeler;
+      e8: Ofislerimizdeki kağıt dosyalar;
+      e9: Bulut yedekleme ve depolama.
+    e3: Kişisel verilerinizin güvenliği bizim için önemlidir ve verilerinizi korumak için uygun teknik ve organizasyonel önlemler kullanırız ve sürdürürüz. Bu önlemler, verilerinizi yanlışlıkla veya yasadışı olarak yok edilmesini, kaybolmasını, değiştirilmesini, yetkisiz açıklanmasını veya erişimini önlemek için kullanılır. Bilgi ve siber güvenlik, gizlilik ve veri koruma konularını kapsayan politikalar, prosedürler ve eğitimlerimiz için bir çerçeveye sahibiz.
+  b10:
+    e1: Kişisel Veri Paylaşımı ve Transferi
+    e2: Size hizmetlerimizi sağlamak ve/veya talimatlarınıza uyum sağlamak için kişisel verileri yalnızca üçüncü taraflarla paylaşırız. Kişisel verilerinizi bağlı kuruluşlarımız ve yan kuruluşlarımızla paylaşabiliriz. Kişisel bilgilerinizi üçüncü taraflara vermez veya satmaz ız.
+    e3: Ayrıca, yasal süreçlerde veya yasal yükümlülükleri yerine getirmede, mahkeme emri veya bir hükümet otoritesinin talimatlarına uyum sağlamada sizin ve diğer kişilerin kişisel verileri dahil belirli kişisel verileri paylaşmak için yasal olarak zorunlu olabiliriz.
+    e4: Üçüncü tarafın ihtiyaç duyabileceği herhangi bir kişisel veri için, kişisel verilerinizin yasaya uygun, güvenli ve sizin haklarınız, yükümlülüklerimiz ve üçüncü tarafın yasal yükümlülükleri çerçevesinde işlenmesini sağlamak için adımlar atacağız.
+    e5: Bazı harici üçüncü taraflarımız EEA dışında bulunabilir, bu nedenle kişisel verilerinizin işlenmesi EEA dışına veri transferi gerektirebilir.
+    e6: 'Kişisel verilerinizi EEA dışına transfer ettiğimizde, kişisel verileriniz için benzer bir koruma düzeyinin sağlandığından emin olmak için aşağıdakilerden en az birinin uygulandığından emin oluruz:'
+    u:
+      e1: Kişisel verilerinizin transfer edildiği ülke, Avrupa Komisyonu tarafından kişisel verilerin korunması için yeterli bir seviyeye sahip olarak değerlendirilmiştir;
+      e2: Avrupa Komisyonu tarafından onaylanan ve kişisel verilerin işlenmesine güvence sağlayan özel bir sözleşme, söz konusu Standart Sözleşme Maddeleri olarak adlandırılır.
+  b11:
+    e1: Gizlilik
+    e2: Kişisel bilgileri kayıp, hırsızlık ve her türlü yetkisiz erişime karşı korumak için fiziksel, elektronik ve prosedürel önlemler alıyoruz. Sadece yetkili çalışanlar, temsilciler veya temsilciler, görev gereği kişisel bilginize erişime ihtiyaç duyanlar bilgiye erişebilir. Yükümlülüklerimiz, bilginin fiziksel olarak bize ulaştığı anda veya iç sistemlerimize ulaştığı anda etkinleşir, ancak iletim sırasında değil, çünkü internet veya telefon sistemi veya fiziksel posta üzerinden veri alışverişi mükemmel şekilde güvenli olamaz, bu nedenle bize gönderdiğiniz veya elektronik veya telefon üzerinden eriştiğiniz herhangi bir kişisel bilgi kendi sorumluluğunuzdadır ve güvenliğini garanti etmeyiz. Söz konusu bilgiyi bize iletmeye zorlayan veya sizden kişisel bilgi açığa çıkarmanıza neden olan üçüncü tarafları engellemek için dikkatli olmalısınız.
+  b12:
+    e1: Onay
+    e2: Web sitemizi, mobil uygulamayı ve ilgili hizmetlerimizi kullanarak, gizlilik politikamızı kabul ettiğinizi belirtirsiniz.
+    e3: Bu Gizlilik Bildirimi, sizden topladığımız kişisel bilgilerle ilgili niyetlerimizi sağlar. Kişisel bilgi sağlayarak, söz konusu bilginin bu Gizlilik Politikasında açıklanan amaçlar için kullanımına, kullanımına ve açıklanmasına rıza gösterdiğinizi kabul edeceğiz. Lütfen onayınızın, e-posta adreslerinizi, posta adreslerinizi ve size iletişim kurmak için bize sağladığınız diğer iletişim kaynaklarını kullanma izni içerdiğini unutmayın.
+    e4: 'Onayınız farklı şekillerde verilebilir, örneğin: Sözlü olarak, elektronik olarak veya herhangi bir şekilde bir belgede; veya hizmetlerimizi gönüllü olarak seçerek ima edilerek; belirtilen amaçlar için kişisel bilgilerinizin kullanımına onayı çekmeme; bu bildiride belirtilen belirli amaçlar için mevcut olan "çıkış" seçeneğini kullanmama durumunda. Bu tür onay doğrudan sizin tarafınızdan veya yasal temsilciniz tarafından verilebilir.'
+    e5: Onayınızın geri çekilmesi tamamen size bağlı olacaktır ve yasal, sözleşmesel, düzenleyici, hükümet ve/veya yasal yükümlülüklerden kaynaklanan kayıt tutma ve açıklama için geçerli olacaktır; ve kişisel bilgilerinizi yerine getirmek için kullanılması gereken işlemler zaten başlatılmışsa. Böyle bir onayın geri çekilmesi durumunda, kişisel bilginizin gerektiren bazı ürünlerimizi veya hizmetlerimizi artık sunamayabiliriz.
+  b13:
+    e1: Haklarınız
+    e2: 'Bu Gizlilik Politikası kapsamında aşağıdaki haklara sahipsiniz:'
+    o:
+      e1: Kişisel verilerinizin toplanması ve kullanımı hakkında bilgi alma hakkı.
+      e2: Sizinle ilgili kişisel verileri tuttuğumuzu doğrulamanız ve kişisel verilerinizi nasıl ve neden işlediğimizle ilgili belirli bilgilere sahip olma hakkı.
+      e3: Kişisel verilerinizin yanlış veya eksik olması durumunda kişisel verilerinizi düzeltilmesi veya düzeltilmesi hakkı.
+      e4: Silinme hakkı (aynı zamanda unutulma hakkı olarak da bilinir), yani bize ait olan kişisel verilerinizi silmemizi veya başka türlü ortadan kaldırmamızı isteme hakkı.
+      e5: Kişisel verilerinizin işlenmesinin sınırlandırılma hakkı.
+      e6: Belirli bir amaç veya amaçlar için kişisel verilerinizi kullanmamıza itiraz hakkı.
+      e7: Veri taşınabilirliği hakkı. Bu, kişisel verileri doğrudan bize sağlamışsanız, onu rızanızla veya bir sözleşmenin veya hizmetin yerine getirilmesi için kullandığımız ve verilerin otomatik araçlar kullanılarak işlendiği anlamına gelir, bu durumda bu kişisel verilerin bir kopyasını başka bir hizmet veya iş ile tekrar kullanmanız için bize başvurabilirsiniz.
+      e8: Şikayette bulunma hakkı. EEA üye ülkesinde ikamet ediyorsanız, kişisel verilerinizi nasıl işlediğimizle ilgili olarak EEA üye ülkesinin denetim otoritesine şikayette bulunma hakkınız vardır.
+      e9: Otomatik karar alma ve profil oluşturmaya ilişkin haklar. Kişisel verilerinizi bu şekilde kullanmıyoruz.
+    e3: 'Kişisel verilerinizi kullanımımız veya yukarıda belirtilen haklarınızı kullanma hakkı ile ilgili daha fazla bilgi için veya şikayette bulunmak istiyorsanız, lütfen bize şuradan ulaşın:'
+  b14:
+    e1: Çerezler
+    e2: Bu bölüm, Web Sitemiz ve mobil Uygulama için geçerlidir.
+    e3: Web sitesine erişerek, bu bölümün, herhangi bir cihazda web sitesine eriştiğinizde geçerli olacağına dağılıyorsunuz.
+    e4: Bu politikada yapılan herhangi bir değişiklik burada yayınlanacaktır. Bu bölümü zaman zaman değiştirme hakkını saklı tutarız ve bu tür değişiklikler, yayınlandığı anda etkin olacaktır. Web sitesinin kullanımına devam etmeniz, tüm bu değişikliklere onay verdiğiniz anlamına gelir.
+    e5: Bu politika, çerezlerin genel olarak web sitemizde nasıl kullanıldığını açıklar ve aşağıda bu sitelerde kullanılabilecek çerezleri nasıl kontrol edebileceğiniz açıklanır (tüm çerezler her sitede kullanılmaz).
+  b15:
+    e1: Çerezler nedir ve nasıl kullanılırlar?
+    e2: Çerezler, tarayıcınız tarafından bilgisayarınızda depolanan küçük metin dosyalardır. Birçok amaç için kullanılırlar, örneğin daha önce siteyi ziyaret edip etmediğinizi hatırlayarak, böylece oturum açık kalır veya aylık olarak kaç yeni web sitesi ziyaretçisi aldığımızı belirlememize yardımcı olurlar. Bilgisayarınızın kullanımı hakkında bilgiler içerir, ancak sizin hakkınızda kişisel bilgileri içermez (örneğin adınızı saklamazlar).
+    e3: Çerezleri, web sitelerimizde sunulan hizmetleri ve özellikleri sağlamak ve kullanıcı deneyimini sürekli olarak geliştirmek için kullanıyoruz.
+    e4: Ayrıca Google Analytics'i kullanabiliriz, böylece sitemiz trafiğini izleyebilir ve analiz edebiliriz. Bunu yaparak, web sitemizin işlevselliğini geliştirmek için veri toplarız, ancak kişisel kimliği belirlenmiş verileri toplamayız.
+  b16:
+    e1: Çerezleri nasıl yönetebilirsiniz?
+    u1:
+      e1: Cihazınızdaki çerezleri kaldırma
+    e2: Tarayıcınızın gezinme geçmişini temizleyerek cihazınızdaki tüm çerezleri silebilirsiniz. Bu, ziyaret ettiğiniz tüm web sitelerinden tüm çerezleri kaldırır. Ancak, bazı kaydedilmiş bilgileri de kaybedebileceğinizi unutmayın (örneğin kaydedilmiş oturum açma bilgileri, site tercihleri).
+    u2:
+      e1: Siteye özgü çerezleri yönetme
+    e3: Siteye özgü çerezler üzerinde daha ayrıntılı kontrol için tercih ettiğiniz tarayıcının gizlilik ve çerez ayarlarını kontrol edin.
+    u3:
+      e1: Çerezleri engelleme
+    e4: Modern tarayıcıların çoğunu cihazınıza herhangi bir çerezin yerleştirilmesini engellemek için ayarlayabilirsiniz, ancak daha sonra bazı tercihleri her ziyaret ettiğinizde manuel olarak ayarlamak zorunda kalabilirsiniz. Bazı hizmetlerin ve işlevlerin hiç çalışmaması da mümkündür (örneğin profil oturum açma).
+    u4:
+      e1: Analitik çerezlerimizi yönetme
+    e5: Web sitemize girdiğinizde çerezlerle ilgili tercihlerinizi yönetebilirsiniz.
+  b17:
+    e1: Bu Gizlilik Politikasında Yapılan Değişiklikler
+    e2: Bu Gizlilik Bildirimi'ni zaman zaman değiştirebiliriz. Bu, örneğin yasalar değişirse veya kişisel veri korumasını etkileyen bir şekilde işimizi değiştirirsek gerekebilir.
+    e3: Herhangi bir değişiklik, Web Sitemizde yayınlanacak ve değişikliklerin ardından Web sitemizi ilk kez kullandığınızda Gizlilik Politikası'nın koşullarını kabul ettiğiniz varsayılacaktır.
+
+footer:
+  e1: Gizlilik politikası
+  e2: Web Sitesi Şartları ve Koşulları
+  e3: Kullanım Koşulları

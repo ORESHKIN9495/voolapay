@@ -1,0 +1,394 @@
+---
+header:
+  e1: Negocios
+  e2: Preguntas frecuentes
+  e3: Iniciar sesión
+  e4: Registro
+
+home:
+  e1: Bienvenido a <span>VOOLA PAY</span> - ¡El banco del futuro en tu bolsillo!
+  e2: VOOLA PAY es una moderna plataforma de pagos diseñada para particulares, freelancers y negocios que ofrece una serie de funciones para gestionar tus finanzas con facilidad. Con nuestra plataforma, puedes aprovechar las ventajas de cuentas multi-divisa, realizar pagos internacionales y locales y acceder a una aplicación integral para todas tus operaciones financieras.
+
+how-it-works:
+  e1: Cómo funciona
+  b1:
+    e1: Solicita en segundos
+    e2: Para empezar, simplemente proporciona tu número de teléfono local y una identificación o pasaporte válido.
+  b2:
+    e1: Recarga tu cuenta fácilmente
+    e2: Recarga tu cuenta Voola Pay sin dificultades. Elige entre opciones como tarjetas de débito, transferencias bancarias, pagos móviles, criptomonedas, StableNFT o terminales de pago, según tu país.
+  b3:
+    e1: Acceso instantáneo
+    e2: Después de recargar tu aplicación Voola Pay, recibirás al instante una tarjeta virtual Mastercard que te permitirá enviar pagos tan fácilmente como mensajes.
+  b4:
+    e1: Administra tu dinero en cualquier momento y lugar
+    e2: Con Voola Pay, tienes control total sobre tus finanzas. Envía dinero a diferentes países, paga facturas de manera conveniente, compra en línea en millones de tiendas en todo el mundo y aprovecha nuestras ofertas de reembolso por tiempo limitado.
+
+virtual-card:
+  e1: Tarjeta virtual
+  e2: Compra con comodidad usando nuestra tarjeta virtual Mastercard. Accede a tu tarjeta en segundos y disfruta de la conveniencia de las compras en línea en millones de tiendas en todo el mundo. Aprovecha nuestras ofertas de reembolso por tiempo limitado. Además, paga facturas fácilmente tocando tu teléfono con nuestra tarjeta virtual.
+
+physical-card:
+  e1: Tarjeta física
+  e2: Solicita nuestra tarjeta física Mastercard y recíbela en tu dirección (disponible solo en algunas regiones). Disfruta de la libertad de pagos sin contacto, que te permiten hacer compras en cualquier momento y lugar. Con nuestras tarjetas, puedes pagar en más de 50 millones de tiendas en todo el mundo, ¡como tener dinero en efectivo en tu bolsillo!
+
+multi-currency:
+  b1:
+    e1: Cuentas multi-divisa
+    e2: Almacena tus fondos en diferentes monedas con nuestras cuentas multi-divisa. Realiza pagos internacionales, recibe notificaciones instantáneas sobre gastos y realiza un seguimiento fácil de tus gastos en la aplicación Voola Pay.
+  b2:
+    e1: Pagos locales e internacionales
+    e2: Envía y recibe pagos tanto a nivel local como internacional con comisiones transparentes, evitando la necesidad de complicados planes tarifarios. Disfruta de transferencias gratuitas e instantáneas entre cuentas L7P.io.
+  b3:
+    e1: Excelentes tasas de cambio
+    e2: Aprovecha las competitivas tasas de cambio entre bancos que permiten cambiar moneda sin comisiones ocultas. Disfruta de excelentes tasas para las monedas populares.
+
+security:
+  e1: Seguridad
+  e2: En Voola Pay, priorizamos tu seguridad y tranquilidad.
+  b1:
+    e1: Cuentas segregadas en el Reino Unido
+    e2: 3D Secure
+    e3: Autenticación de dos factores (2FA)
+  e3: Nuestra avanzada encriptación de datos garantiza la protección de tus pagos. Recibe información sobre el uso de la aplicación a través de notificaciones push, correos electrónicos y mensajes de texto. Cuando necesites ayuda, nuestro amable equipo de soporte siempre está listo para ayudarte.
+  e4: Únete al banco del futuro con Voola Pay. ¡Regístrate hoy y disfruta de una gestión de tus finanzas sin problemas en tu smartphone!
+
+faq:
+  e1: Preguntas frecuentes
+  reg:
+    e1: Registro
+    b1:
+      e1: ¿Cómo registrarse?
+      e2: Para registrarte, simplemente completa el formulario en línea y carga los documentos requeridos. Este proceso tomará aproximadamente 10 minutos.
+      e3: Una vez que respondas algunas preguntas, nuestro equipo revisará tu solicitud y, si es necesario, puede solicitar documentos adicionales. El proceso de confirmación de apertura de cuenta generalmente toma menos de 24 horas, pero en algunos casos, si se requiere documentación adicional o una revisión más profunda, puede tomar más tiempo.
+    b2:
+      e1: ¿Por qué no puedo registrarme?
+      e2: Para registrarte, simplemente completa el formulario en línea y carga los documentos requeridos. Este proceso tomará aproximadamente 10 minutos.
+      u:
+        e1: Industria restringida
+        e2: Tipo de empresa no adecuado
+        e3: Residencia en un país sujeto a sanciones
+    b3:
+      e1: ¿Qué industrias no son compatibles?
+      e2: 'Hay varias razones por las que no puedes registrarte:'
+      u:
+        e1: Casinos ilegales
+        e2: Comerciantes de armas
+        e3: Drogas ilegales
+        e4: Cuentas anónimas o clientes que deseen mantener su cuenta bajo un nombre falso
+        e5: Tráfico de personas
+        e6: Bancos fachada, es decir, bancos sin presencia física o personal
+        e7: Contenido para adultos en línea, cámaras web, contenido adulto ofensivo y categorías con contenido adulto en vivo
+        e8: Publicidad para adultos
+        e9: Pornografía infantil
+        e10: Zoofilia
+        e11: Violencia sexual / Discurso de odio / Violencia
+        e12: Infracción de derechos de autor
+    b4:
+      e1: ¿Qué países y regiones no son compatibles con VoolaPay?
+      u:
+        e1: Malí
+        e2: Marruecos
+        e3: Nigeria
+        e4: Liberia
+        e5: República Centroafricana
+        e6: Franja de Gaza
+        e7: Guinea
+        e8: Senegal
+        e9: San Martín
+        e10: Burundi
+        e11: Albania
+        e12: Sudán
+        e13: Camboya
+        e14: Islas Vírgenes de los Estados Unidos
+        e15: Barbados
+        e16: Islas Caimán
+        e17: Jamaica
+        e18: Ghana
+        e19: República Democrática del Congo
+        e20: Guinea-Bissau
+        e21: Haití
+        e22: Cisjordania
+        e23: Zimbabue
+        e24: Libia
+        e25: Rusia
+        e26: Bielorrusia
+        e27: Sudán del Sur
+        e28: Panamá
+        e29: Pakistán
+        e30: Irak
+        e31: Somalia
+        e32: Nicaragua
+        e33: Myanmar
+        e34: Siria
+        e35: Yemen
+        e36: Afganistán
+        e37: Corea del Norte
+        e38: República Islámica de Irán
+    b5:
+      e1: ¿Qué es el salvaguarda?
+      e2: Es un procedimiento especial requerido por el regulador financiero británico para proteger los fondos de los clientes. La salvaguarda significa que todos los fondos del cliente no se deben almacenar en VoolaPay, sino en cuentas especiales (llamadas "cuentas de dinero del cliente") en bancos centrales europeos y grandes bancos de Europa y el Reino Unido. Estas cuentas están separadas de otras cuentas y son completamente inaccesibles para terceros.
+  curr:
+    e1: Cuenta corriente
+    b1:
+      e1: ¿Cómo abrir una cuenta corriente?
+      e2: Puedes abrir una cuenta corriente VoolaPay de forma remota. Simplemente completa el breve formulario de registro en nuestro sitio web y te proporcionaremos información sobre los documentos específicos necesarios para abrir tu cuenta.
+    b2:
+      e1: ¿Qué tan rápido se abrirá mi cuenta y de qué depende?
+      e2: La velocidad de apertura de la cuenta depende de qué tan rápido el cliente proporcione los documentos que cumplan completamente con los requisitos. En promedio, las personas jurídicas pueden abrir una cuenta corriente VoolaPay en 1 día hábil.
+    b3:
+      e1: ¿Cómo puedo cargar mi cuenta?
+      e2: 'Hay varias formas de cargar su cuenta:'
+      u:
+        e1: Transfiera dinero desde otra cuenta de VoolaPay en su panel de control personal.
+        e2: Transfiera dinero desde una cuenta en otro banco.
+        e3: Cargue su cuenta con una tarjeta de pago.
+        e4: Cargue su cuenta con criptomonedas admitidas.
+        e5: Cargue su cuenta a través del sistema de pago StableNFT.
+      e3: Tenga en cuenta que el límite máximo de recarga de la tarjeta es de 2000 euros por transacción y 10000 euros por semana desde una tarjeta.
+    b4:
+      e1: No recibí el código SMS para acceder a mi cuenta personal. ¿Qué debo hacer?
+      e2: Si no recibe el código SMS para la verificación dentro de los 5 minutos, solicite un nuevo código SMS presionando el botón "Enviar código nuevamente". Debería recibir un mensaje con el código de confirmación en un minuto. Si esto no resuelve el problema, intente reiniciar el dispositivo y verifique su red móvil. También puede acceder a su cuenta personal utilizando un método alternativo, como correo electrónico y G2FA.
+  master:
+    e1: Tarjeta virtual de Voola Pay
+    b1:
+      e1: ¿Cómo solicitar una nueva tarjeta?
+      e2: Puede solicitar una tarjeta en su cuenta corriente actual de VoolaPay. En el menú de navegación izquierdo, seleccione la sección "Tarjetas", haga clic en el botón "Solicitar tarjeta", complete la información necesaria y envíe su solicitud. También puede solicitar una tarjeta a través de la aplicación móvil VoolaPay en la sección "Tarjetas".
+    b2:
+      e1: ¿Cuántas tarjetas de pago puedo tener?
+      e2: Una persona física puede tener hasta 3 tarjetas activas (incluidas las virtuales) a su nombre.
+    b3:
+      e1: Plazos y opciones de entrega de la tarjeta
+      e2: 'La entrega de la tarjeta está disponible en dos opciones:'
+      u:
+        e1: 'Entrega estándar por correo: 5-12 días hábiles'
+        e2: 'Servicio de mensajería UPS: 1-3 días hábiles'
+      e3: Tenga en cuenta que estos son plazos de entrega aproximados y no podemos garantizar una fecha de entrega específica.
+
+business:
+  e1: Cuenta empresarial con <span>VOOLA PAY</span>
+  acc:
+    b1:
+      e1: Gerente personal y protección del 100% de los fondos
+      e2: Realice pagos rápidos en todo el mundo para empresas europeas e internacionales. Disfrute de los beneficios de un gerente personal y la seguridad total de sus fondos.
+    b2:
+      e1: Abrir una cuenta
+      e2: Realice transferencias rápidas sin restricciones técnicas. Entendemos cómo trabajar con grandes empresas, por lo que sus pagos no se bloquearán solo porque son "grandes". Los límites de pago se establecen según el volumen y características de su empresa. Aprender más
+    b3:
+      e1: Aproveche los beneficios de una cuenta en el Reino Unido
+      e2: El Reino Unido es una de las jurisdicciones más respetadas en todo el mundo. Las reglas financieras transparentes y claras ayudan a que las empresas prosperen. Nuestra información del cliente es completamente confidencial, mientras que la información de nuestros accionistas es abierta y accesible para todos. Aprender más
+  pay:
+    b1:
+      e1: Crezca con nosotros
+      e2: Utilice nuestras soluciones tecnológicas e instrumentos financieros, que incluyen pagos masivos, integración de API, proyectos de nómina, pasarelas de pago, préstamos con garantía y depósitos empresariales.
+    b2:
+      e1: Confíe en la seguridad de su dinero
+      e2: De acuerdo con los requisitos de la FCA sobre seguridad, el dinero de nuestros clientes está protegido. Los fondos de los clientes se mantienen en cuentas separadas, apartadas de los propios fondos de Voola Pay. Seleccionamos y supervisamos cuidadosamente las instituciones de crédito (bancos) utilizadas para guardar los fondos de los clientes, para que no tengan derecho a los fondos en las cuentas. Esto significa que incluso en caso de bancarrota de los bancos o de Voola Pay, el dinero de nuestros clientes permanecerá protegido. Aprender más
+    b3:
+      e1: Su control financiero las 24 horas del día
+      e2: Realice pagos sin contacto en todo el mundo con la tarjeta de negocios Voola Pay en cualquier divisa. El costo de la tarjeta y la entrega están incluidos en el costo de apertura de la cuenta. Utilice la tarjeta virtual para mayor seguridad en transacciones en línea. Disfrute de la comodidad de la billetera móvil para pagos sin problemas. Aprender más
+    b4:
+      e1: Miles de clientes satisfechos de 66 países de todo el mundo.
+      e2: 7 años de experiencia exitosa en el mercado fintech.
+      e3: Tiempo promedio de apertura de cuentas para nuestros clientes - 9.3 horas.
+    b5:
+      e1: Aproveche las últimas novedades tecnológicas
+      e2: Utilice su teléfono inteligente en lugar de un código de calculadora. Acceso múltiple a cuentas con diferentes derechos. La aplicación móvil para iOS/Android atiende tanto su cuenta comercial como su cuenta personal, lo que le permite cambiar entre cuentas con un solo clic.
+  dev:
+    e1: Desarrolle su negocio en su industria con <span>VOOLA PAY</span>
+    b1:
+      e1: 'Comercio mayorista: aumente su volumen de negocios'
+      e2: Nuestros gerentes comprenden las particularidades de los productos, facturas, especificaciones, CMR y otros documentos acompañantes. Utilice pagos dentro y fuera de países de terceros, incluidas monedas de países de terceros. Habilite pagos SEPA instantáneos y otros canales. Implemente proyectos de pago de nómina.
+    b2:
+      e1: 'Comercio electrónico: haga crecer su plataforma de comercio'
+      e2: Disfrute de pagos SEPA instantáneos rápidos, mayor seguridad y proyectos de pago de nómina. Utilice dos cuentas para operaciones administrativas y pagos. Reciba soporte técnico competente y un gerente personal.
+    b3:
+      e1: 'Logística: ahorre tiempo y dinero'
+      e2: Utilice requisitos simples y comprensibles para abrir una cuenta comercial. Realice pagos dentro y fuera de países de terceros sin restricciones técnicas, incluidas monedas de países de terceros. Nuestros gerentes personales tienen experiencia en documentos aduaneros y la especificidad de transporte, incluidas áreas especializadas como envío de carga. Utilice una rápida conversión de divisas a tasas favorables. Implemente proyectos de pago de nómina.
+    b4:
+      e1: 'Fintech: conecte fácilmente'
+      e2: Acceda a múltiples canales de pago, incluidos SEPA y CHAPS. Disfrute de un proceso de incorporación conveniente diseñado específicamente para empresas fintech. Utilice una cuenta para actividades administrativas, una cuenta de fondos de clientes en asociación con socios, una cuenta de garantía y soporte receptivo.
+    b5:
+      e1: 'Industria de juegos: obtenga fondos instantáneos'
+      e2: 'Cuenta empresarial Pagos masivos a través de API y tarjetas de débito Mastercard. Cuenta empresarial Integración directa con pagos SEPA instantáneos y API Open Banking para una rápida recepción y envío de pagos. Cuenta empresarial Integración con sistemas de pago en lugar de pagos con tarjeta: liquidaciones instantáneas con comerciantes sin posibilidad de reembolso.'
+    b6:
+      e1: Trabaje con países de terceros
+      e2: Acepte y envíe pagos dentro y fuera de países de terceros. Convierta divisas a tasas favorables directamente desde su panel de control.
+    b7:
+      e1: Confiamos en el éxito
+      e2: Voola Pay está desarrollando su plataforma fintech de manera confiada y estable, agregando nuevos productos y mejorando los existentes. Nuestro objetivo es crecer y ayudar a nuestros clientes a crecer.
+
+privacy:
+  e1: Política de privacidad
+  b1:
+    e1: Bienvenido a la política de privacidad de L7P Ltd ("L7P"). Por favor, lea cuidadosamente antes de proporcionarnos cualquier información personal sobre usted u otra persona.
+    e2: Política de privacidad de L7P (en adelante "L7P"). Por favor, lea cuidadosamente antes de proporcionarnos cualquier información personal sobre usted u otra persona. Salazar Pay (en adelante "Salazar Pay") es una plataforma gestionada por Xward Pay Inc. (en adelante "XWARD", "nosotros" o "nuestro") y sus socios de vez en cuando. Para fines de protección de datos, XWARD es el responsable del tratamiento de datos con respecto a los datos personales que recibimos de usted o que recopilamos sobre usted, y somos responsables de garantizar el cumplimiento de las leyes aplicables de protección de datos ("Reglamento General de Protección de Datos"). Como responsable del tratamiento de sus datos personales, determinamos los "medios" y "propósitos" de todas las operaciones de procesamiento que realizamos.
+    e3: Representante europeo de XWARD - Afacomp UAB, con domicilio en A. Tumeno str. 4, 01109 Vilnius, Lituania.
+  b2:
+    e1: Antecedentes
+    e2: Necesitamos recopilar y utilizar ciertos tipos de información sobre personas físicas y jurídicas que deseen utilizar nuestros servicios.
+    e3: Los datos personales deben ser recopilados y procesados de manera adecuada de acuerdo con la política AML de la empresa y esta política de privacidad, desarrollada en cumplimiento del GDPR y los estándares internacionales.
+    e4: De conformidad con las disposiciones del GDPR y los estándares internacionales, cualquier usuario que proporcione su información de acuerdo con esta política confirma que comprende y acepta el propósito de la recopilación de información y consiente el procesamiento de la información con fines de prevención del lavado de dinero.
+    e5: Cualquier usuario tiene derecho a conocer quién es responsable del procesamiento de sus datos personales.
+    e6: Cualquier dato recopilado en el curso de nuestro negocio, ya sea en papel, en una base de datos informática o registrado en otros medios, está sujeto a esta política y protegido de acuerdo con las leyes y regulaciones aplicables de GDPR sobre el control y procesamiento de datos.
+  b3:
+    e1: ¿Qué abarca esta política?
+    e2: Esta política de privacidad se aplica únicamente al uso de nuestro sitio web. El sitio web puede contener enlaces a otros sitios web. Tenga en cuenta que no controlamos cómo se recopilan, almacenan o utilizan sus datos otros sitios web, y le recomendamos que revise las políticas de privacidad de dichos sitios web antes de proporcionarles cualquier información.
+  b4:
+    e1: ¿Qué son los datos personales?
+    e2: Los datos personales se definen según la Ley de Protección de Datos Personales y Documentos Electrónicos como "cualquier información relativa a una persona identificada o identificable, en particular por referencia a un identificador".
+    e3: En pocas palabras, los datos personales son cualquier información sobre usted que permita su identificación. Los datos personales incluyen información como su nombre y datos de contacto, pero también incluyen información menos evidente como números de identificación, datos de ubicación en la red y otros identificadores en línea.
+  b5:
+    e1: ¿Qué datos recopilamos?
+    e2: Recopilamos información personal en el proceso de brindarle nuestros productos y/o servicios. La información se recopila con su consentimiento o de acuerdo con permisos o requisitos legales.
+    e3: 'Según cómo utilice nuestro sitio web, la información personal que proporcione o que solicitemos y recopilemos puede incluir lo siguiente:'
+    e4: 'Datos de identificación:'
+    u1:
+      e1: nombre,
+      e2: apellido,
+      e3: puesto,
+      e4: fecha de nacimiento y género,
+      e5: información biométrica para fines de reconocimiento facial,
+      e6: documentos de identificación personal, como tarjetas de identidad nacionales, pasaportes, licencias de conducir u otros documentos de identificación personal.
+    e5: 'Datos relacionados con la identificación:'
+    u2:
+      e1: evaluación de riesgos,
+      e2: evaluación de cumplimiento.
+    e6: 'Datos de contacto:'
+    u3:
+      e1: datos de residencia,
+      e2: dirección para facturación,
+      e3: dirección de entrega,
+      e4: dirección de correo electrónico y números de teléfono,
+      e5: documentos de confirmación de dirección.
+    e7: 'Datos financieros:'
+    u4:
+      e1: datos de cuentas bancarias,
+      e2: datos de tarjetas de pago,
+      e3: montos relacionados con cuentas,
+      e4: datos de cuentas externas,
+      e5: fuente de fondos y documentos relacionados.
+    e8: 'Datos de transacciones:'
+    u5:
+      e1: detalles de pagos entrantes y salientes,
+      e2: otros detalles de cualquier transacción que realice utilizando nuestros servicios, sitio web o aplicación.
+    e9: 'Datos técnicos:'
+    u6:
+      e1: datos de conexión a internet,
+      e2: dirección IP,
+      e3: datos del operador y transportista,
+      e4: datos de inicio de sesión,
+      e5: tipo y versión del navegador,
+      e6: tipo, categoría y modelo de dispositivo,
+      e7: configuración de zona horaria y datos de ubicación,
+      e8: datos de idioma,
+      e9: tipos y versiones de complementos del navegador,
+      e10: sistema operativo y plataforma,
+      e11: datos técnicos como registros de errores y cualquier otra información que recopilemos con fines de diagnóstico técnico, así como cualquier otra información almacenada o disponible con respecto a los dispositivos a los que nos da acceso cuando visita el sitio web o utiliza los servicios o la aplicación.
+    e10: 'Datos de perfil:'
+    u7:
+      e1: su nombre de usuario y contraseña,
+      e2: su número de identificación como nuestro usuario,
+      e3: solicitudes de productos o servicios de su parte,
+      e4: sus intereses, preferencias y opiniones,
+      e5: otra información creada por usted al comunicarse con nuestro servicio de atención al cliente.
+    e11: Esta información puede ser recopilada en documentos en papel, en forma de copias escaneadas o enviadas por fax, a través de llamadas telefónicas, correos electrónicos, entrevistas orales, comunicación personal o datos obtenidos a través de nuestro sitio web o aplicación. Esta información incluirá datos recopilados por nosotros sobre usted y cualquier otra persona con la que interactúe a través de nosotros, incluidos contratistas, remitentes o destinatarios de fondos o servicios.
+    e12: Recopilamos esta información a través de nuestros empleados, compañías afiliadas y recursos en línea, organismos gubernamentales o socios comerciales, así como agencias de informes de consumidores, o puede ser proporcionada por usted previamente cuando nos contacta para recibir servicios.
+    e13: No procesamos "Datos sensibles", excepto en el caso de datos biométricos procesados con el propósito de identificación única de una persona física.
+  b6:
+    e1: ¿Cómo utilizamos sus datos personales?
+    e2: 'De acuerdo con la legislación aplicable, siempre necesitamos una base legal para el uso de sus datos personales. Esto puede ser porque los datos son necesarios para brindarle nuestros servicios y cumplir con el contrato con usted, porque usted ha dado su consentimiento para el uso de sus datos personales, o porque está en nuestros intereses comerciales legítimos. Sus datos personales pueden ser utilizados para los siguientes propósitos:'
+    u:
+      e1: Proporcionar y gestionar acceso a nuestro sitio web o aplicación;
+      e2: Proporcionar nuestros productos y servicios;
+      e3: Interactuar con usted;
+      e4: Mantener nuestros propios registros y documentación;
+      e5: Cumplir con las obligaciones legales y regulatorias de nuestra parte y de la suya;
+      e6: Analizar su uso de nuestro sitio web para mejorar continuamente y mejorar su experiencia de usuario.
+  b7:
+    e1: Opción de exclusión
+    e2: Podemos utilizar sus datos de contacto e información sobre sus preferencias con respecto a los servicios con fines de marketing e investigación para enviarle ofertas o promociones de nosotros o de nuestras empresas afiliadas. Usted puede "optar por no participar" o revocar su consentimiento para la divulgación de información para los fines descritos en esta sección, poniéndose en contacto con nosotros en la dirección...
+  b8:
+    e1: ¿Cuánto tiempo almacenamos sus datos personales?
+    e2: Mantendremos sus datos personales durante el tiempo necesario para proporcionarle nuestros servicios o durante un período más prolongado si necesitamos procesar los datos para cumplir con todas las leyes y obligaciones regulatorias que debemos cumplir.
+  b9:
+    e1: ¿Cómo y dónde almacenamos sus datos personales?
+    e2: 'Los datos personales se procesan manual y electrónicamente y pueden almacenarse en varios lugares diferentes que son apropiados para las operaciones comerciales habituales. Los lugares de almacenamiento de su información personal pueden incluir, entre otros, lo siguiente:'
+    u:
+      e1: Nuestras bases de datos y CRM;
+      e2: Cartas y correos electrónicos en computadoras;
+      e3: Teléfonos móviles y tabletas;
+      e4: Libretas de direcciones de contactos;
+      e5: Tarjetas de presentación;
+      e6: Cuadernos;
+      e7: Documentos electrónicos en nuestros servidores de archivos;
+      e8: Documentos impresos en nuestras oficinas;
+      e9: Copias de seguridad y almacenamiento en la nube.
+    e3: La seguridad de sus datos personales es importante para nosotros y para proteger sus datos, utilizamos y mantenemos medidas técnicas y organizativas adecuadas para proteger sus datos personales y prevenir la destrucción accidental o ilegal, pérdida, alteración, divulgación o acceso no autorizado a los datos personales transmitidos, almacenados o procesados de otra manera. Tenemos un sistema de políticas, procedimientos y capacitación que abarca la seguridad de la información y la ciberseguridad, la confidencialidad y la protección de datos.
+  b10:
+    e1: Intercambio y transferencia de datos personales
+    e2: Solo revelaremos datos personales a terceros cuando sea necesario para proporcionar nuestros servicios y/o de acuerdo con sus instrucciones. Podemos compartir su información personal con nuestras empresas afiliadas y subsidiarias. No proporcionamos ni vendemos su información personal a terceros.
+    e3: Además, podemos estar legalmente obligados a divulgar ciertos datos personales, incluidos los suyos, si participamos en procedimientos judiciales o cumplimos con obligaciones legales, órdenes judiciales o instrucciones de una autoridad gubernamental.
+    e4: Si se requiere que terceros accedan a alguno de sus datos personales, tomaremos medidas para garantizar la seguridad, confiabilidad y el cumplimiento de las obligaciones de terceros y sus derechos, nuestras obligaciones y las obligaciones de terceros por ley.
+    e5: Dado que algunos de nuestros socios externos se encuentran fuera del Espacio Económico Europeo (EEE), el procesamiento de sus datos personales puede incluir la transferencia de datos fuera del EEE.
+    e6: 'Al transferir sus datos personales fuera del EEE, proporcionamos un nivel similar de protección asegurándonos de que al menos uno de los siguientes mecanismos de protección esté implementado:'
+    u:
+      e1: El país al que transferimos sus datos personales es considerado por la Comisión Europea como que ofrece un nivel adecuado de protección de datos personales;
+      e2: Un contrato especial aprobado por la Comisión Europea que ofrece garantías con respecto al procesamiento de datos personales, conocido como Cláusulas Contractuales Estándar.
+  b11:
+    e1: Confidencialidad
+    e2: Mantenemos medidas físicas, electrónicas y procedimentales de seguridad para proteger la información personal contra pérdida, robo y acceso no autorizado. El acceso a su información personal solo será otorgado a empleados, agentes o representantes a quienes se les haya concedido acceso a dicha información según sus funciones. Nuestros compromisos entran en vigor solo después de que la información llega físicamente a nosotros o ingresa en nuestros sistemas internos, pero no durante su transmisión hacia o desde nuestro control físico o sistemas internos. Dado que el intercambio de datos a través de internet, el sistema telefónico o el correo físico no puede garantizar la total seguridad, cualquier información personal que nos proporcione o reciba electrónicamente o por teléfono se realiza bajo su propio riesgo, y no garantizamos ni aseguramos la seguridad de la información transmitida de esa manera. Debe tener cuidado para evitar la interceptación no autorizada de sus mensajes por terceros o por personas involucradas en actividades fraudulentas, y evitar divulgar información personal.
+  b12:
+    e1: Consentimiento
+    e2: Al utilizar nuestro sitio web, aplicación móvil y servicios relacionados, usted da su consentimiento a nuestra política de confidencialidad.
+    e3: Este Aviso de confidencialidad establece nuestras intenciones con respecto a su información personal recopilada por nosotros. Al proporcionarnos información personal, consideraremos que ha dado su consentimiento para que recopilemos, utilicemos y divulguemos dicha información con fines descritos en esta Política de confidencialidad, cuando sea aplicable. Tenga en cuenta que su consentimiento incluye el uso de su dirección de correo electrónico, direcciones postales y otros recursos de contacto que nos proporciona para comunicarnos con usted.
+    e4: Su consentimiento puede ser dado de diversas formas, ya sea oralmente, electrónicamente o en un documento en cualquier forma, o se puede inferir al elegir voluntariamente utilizar nuestros servicios sin retirar su consentimiento para el uso de su información personal para un propósito específico, o mediante la falta de uso de una opción proporcionada para "optar por no participar" para los fines indicados en este aviso, si tal opción está disponible. Dicho consentimiento puede ser otorgado por usted personalmente o por su representante legal.
+    e5: La revocación de su consentimiento será completamente opcional en cualquier momento y será efectiva, excepto en los casos en que estemos sujetos a obligaciones legales, contractuales, regulatorias, gubernamentales y/o estatutarias de retención de registros y divulgación; excepto en los casos en que ya se hayan iniciado transacciones para las cuales se requiere el uso de su información personal para completarlas. Tenga en cuenta que, en caso de revocación del consentimiento, es posible que ya no podamos proporcionar algunos de nuestros productos o servicios que requieren su información personal.
+  b13:
+    e1: Sus derechos
+    e2: 'En virtud de esta Política de confidencialidad, usted tiene los siguientes derechos:'
+    o:
+      e1: Derecho a recibir información sobre nuestra recopilación y uso de su información personal.
+      e2: 'Derecho de acceso a la información personal que almacenamos sobre usted: tiene derecho a obtener confirmación de si estamos procesando datos personales sobre usted y cierta información sobre cómo y por qué procesamos su información personal.'
+      e3: Derecho de rectificación de su información personal si alguna de sus datos personales que mantenemos es inexacta o incompleta.
+      e4: 'Derecho al olvido (derecho a la supresión): esto significa que tiene derecho a pedirnos que eliminemos o destruyamos cualquier información personal que tengamos sobre usted.'
+      e5: Derecho a la limitación del procesamiento de su información personal.
+      e6: Derecho a oponerse al uso de su información personal para ciertos fines o propósitos.
+      e7: 'Derecho a la portabilidad de datos: esto significa que, si nos ha proporcionado datos personales directamente y los estamos utilizando con su consentimiento o para cumplir con un contrato o proporcionar servicios, y estos datos se procesan utilizando medios automatizados, puede solicitarnos que le proporcionemos una copia de esta información personal para reutilizarla con otro servicio o negocio.'
+      e8: 'Derecho a presentar una queja: Si reside en un país de la Unión Europea, tiene derecho a presentar una queja sobre cómo procesamos su información personal ante la autoridad de control en el país de la Unión Europea en el que reside, trabaja o en el lugar donde se haya cometido la supuesta violación.'
+      e9: 'Derechos relacionados con la toma de decisiones automatizada y la elaboración de perfiles: No utilizamos su información personal de esta manera.'
+    e3: Para obtener información adicional sobre nuestro uso de su información personal o para ejercer los derechos mencionados anteriormente, o si desea presentar una queja, comuníquese con nosotros en la dirección...
+  b14:
+    e1: Cookies
+    e2: Esta sección se aplica a nuestro sitio web y aplicación móvil.
+    e3: Al visitar el sitio web, acepta que esta sección se aplicará cada vez que acceda al sitio web desde cualquier dispositivo.
+    e4: Cualquier cambio en esta política se publicará aquí. Nos reservamos el derecho de modificar esta sección de vez en cuando, y dichos cambios entrarán en vigencia inmediatamente después de su publicación. Su uso continuado del sitio web significa que acepta dichos cambios.
+    e5: Esta política explica cómo se utilizan las cookies en nuestro sitio web en general, así como a continuación, cómo puede controlar las cookies que pueden utilizarse en estos sitios web (no se utilizan en todos los sitios web).
+  b15:
+    e1: ¿Qué son las cookies y cómo las utilizamos?
+    e2: Las cookies son pequeños archivos de texto que su navegador guarda en su computadora. Se utilizan para diversos fines, como recordar si ha visitado el sitio web anteriormente para mantenerlo conectado, o para determinar la cantidad de nuevos visitantes que recibe el sitio web en un mes. Las cookies contienen información sobre el uso de su computadora, pero no incluyen información personal sobre usted (por ejemplo, no guardan su nombre).
+    e3: Utilizamos cookies para brindar los servicios y funciones ofrecidos en nuestros sitios web, así como para mejorar constantemente la experiencia del usuario.
+    e4: También podemos utilizar Google Analytics para rastrear y analizar el tráfico de nuestro sitio web con el fin de mejorar la funcionalidad del mismo, recopilando datos sobre cómo, cuándo y dónde las personas utilizan o acceden a nuestro sitio. Google Analytics no recopila datos de identificación personal.
+  b16:
+    e1: ¿Cómo gestionar las cookies?
+    u1:
+      e1: Eliminación de cookies de su dispositivo
+    e2: Puede eliminar todas las cookies que ya se encuentran en su dispositivo limpiando el historial del navegador. Esto eliminará todas las cookies de todos los sitios web visitados. Sin embargo, tenga en cuenta que también puede perder cierta información guardada (por ejemplo, datos guardados para iniciar sesión, preferencias del sitio web).
+    u2:
+      e1: Gestión de cookies para sitios web específicos
+    e3: Para un control más detallado sobre las cookies de sitios web específicos, consulte la configuración de privacidad y cookies en su navegador preferido.
+    u3:
+      e1: Bloqueo de cookies
+    e4: Puede configurar la mayoría de los navegadores modernos para que no permitan la instalación de cookies en su dispositivo, pero esto puede requerir que configure manualmente algunas preferencias cada vez que visite sitios web o páginas. Además, algunos servicios y funciones pueden no funcionar correctamente (por ejemplo, el inicio de sesión en un perfil).
+    u4:
+      e1: Gestión de nuestras cookies analíticas
+    e5: Puede gestionar sus preferencias con respecto a las cookies al visitar nuestro sitio web.
+  b17:
+    e1: Cambios en esta Política de confidencialidad
+    e2: Podemos cambiar esta Declaración de confidencialidad de vez en cuando. Esto puede ser necesario, por ejemplo, en caso de cambios en la legislación o si modificamos nuestras operaciones de manera que afecte la protección de datos personales.
+    e3: Cualquier cambio se publicará en nuestro sitio web, y se considerará que usted ha aceptado los términos de la Política de confidencialidad al utilizar nuestro sitio web por primera vez después de los cambios.
+
+footer:
+  e1: Política de confidencialidad
+  e2: Términos de uso del sitio web
+  e3: Reglas de uso

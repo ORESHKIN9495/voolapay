@@ -1,0 +1,395 @@
+---
+header:
+  e1: Geschäft
+  e2: Häufige Fragen
+  e3: Anmelden
+  e4: Registrieren
+
+home:
+  e1: Willkommen bei <span>VOOLA PAY</span> - die Bank der Zukunft in Ihrer Tasche!
+  e2: VOOLA PAY ist eine innovative Zahlungsplattform für Einzelpersonen, Freiberufler und Unternehmen. Sie bietet eine Vielzahl von Funktionen zur bequemen Verwaltung Ihrer Finanzen. Mit unserer Plattform können Sie von Multi-Währungs-Konten profitieren, internationale und lokale Zahlungen tätigen und eine umfassende App für alle Ihre Finanztransaktionen nutzen.
+
+how-it-works:
+  e1: Wie es funktioniert
+  b1:
+    e1: In Sekundenschnelle bewerben
+    e2: Um loszulegen, geben Sie einfach Ihre lokale Telefonnummer und einen gültigen Ausweis oder Reisepass an.
+  b2:
+    e1: Einfaches Aufladen
+    e2: Laden Sie problemlos Geld auf Ihr Voola Pay-Konto. Wählen Sie je nach Land aus verschiedenen Optionen wie Debitkarten, Banküberweisungen, mobilem Geld, Kryptowährungen, StableNFT oder Bezahlterminals.
+  b3:
+    e1: Sofortiger Zugriff
+    e2: Sobald Sie Ihre Voola Pay-App aufgeladen haben, erhalten Sie sofortigen Zugriff auf eine virtuelle Mastercard, mit der Sie Zahlungen so einfach wie Nachrichten senden können.
+  b4:
+    e1: Verwalten Sie Ihr Geld jederzeit und überall
+    e2: Mit Voola Pay haben Sie volle Kontrolle über Ihre Finanzen. Senden Sie Geld in mehrere Länder, bezahlen Sie bequem Ihre Rechnungen, kaufen Sie online in Millionen von Geschäften weltweit ein und profitieren Sie von unseren zeitlich begrenzten Cashback-Angeboten.
+
+virtual-card:
+  e1: Virtuelle Karte
+  e2: Einkaufen leicht gemacht mit unserer virtuellen Mastercard. Greifen Sie innerhalb von Sekunden auf Ihre Karte zu und genießen Sie die Bequemlichkeit des Online-Shoppings in Millionen von Geschäften weltweit. Nutzen Sie unsere zeitlich begrenzten Cashback-Angebote, um Ihre Einkäufe noch lohnender zu gestalten. Darüber hinaus können Sie mit unserer virtuellen Karte Ihre Rechnungen mühelos bezahlen, alles mit einem einfachen Fingertipp auf Ihrem Telefon.
+
+physical-card:
+  e1: Physische Karte
+  e2: Beantragen Sie unsere physische Mastercard und lassen Sie sie an Ihre Haustür liefern (nicht in allen Regionen verfügbar). Erleben Sie die Freiheit kontaktloser Zahlungen, die es Ihnen ermöglichen, jederzeit und überall Einkäufe zu tätigen. Mit Akzeptanz an über 50 Millionen Geschäften weltweit ist es wie Bargeld in Ihrer Tasche.
+
+multi-currency:
+  b1:
+    e1: Multi-Währungs-Konten
+    e2: Speichern Sie Ihr Geld in verschiedenen Währungen mit unseren Multi-Währungs-Konten. Tätigen Sie internationale Zahlungen, erhalten Sie sofortige Ausgabenbenachrichtigungen und verfolgen Sie Ihre Ausgaben bequem in der Voola Pay-App.
+  b2:
+    e1: Lokale und internationale Zahlungen
+    e2: Senden und empfangen Sie Zahlungen sowohl lokal als auch international mit transparenten Gebühren, ohne komplexe Tarifpläne. Genießen Sie kostenlose und sofortige Überweisungen zwischen L7P.io-Konten.
+  b3:
+    e1: Ausgezeichnete Wechselkurse
+    e2: Profitieren Sie von wettbewerbsfähigen Interbank-Wechselkursen, die es Ihnen ermöglichen, Währungen ohne versteckte Gebühren umzutauschen. Genießen Sie außergewöhnliche Kurse für beliebte Währungen.
+
+security:
+  e1: Sicherheit
+  e2: Bei Voola Pay haben Ihre Sicherheit und Ihr Seelenfrieden oberste Priorität
+  b1:
+    e1: Abgetrennte UK-Konten
+    e2: 3D Secure
+    e3: Zweifaktor-Authentifizierung (2FA)
+  e3: Unsere fortschrittliche Datenverschlüsselung gewährleistet den Schutz Ihrer Zahlungen. Bleiben Sie über Ihre App-Nutzung mit Push-Benachrichtigungen, E-Mail-Benachrichtigungen und SMS-Textnachrichten informiert. Unser freundlicher Chat-Support steht Ihnen bei Bedarf zur Verfügung.
+  e4: Treten Sie ein in die Bank der Zukunft mit Voola Pay. Registrieren Sie sich noch heute und erleben Sie eine nahtlose Finanzverwaltung, die Sie bequem mit den Fingerspitzen steuern können.
+
+faq:
+  e1: Häufige Fragen
+  reg:
+    e1: Registrierung
+    b1:
+      e1: Wie registriere ich mich?
+      e2: Um sich zu registrieren, füllen Sie einfach das Online-Formular aus und laden Sie die erforderlichen Dokumente hoch. Dieser Vorgang dauert etwa 10 Minuten.
+      e3: Sobald Sie einige Fragen beantwortet haben, wird unser Team Ihre Anmeldung überprüfen und bei Bedarf zusätzliche Dokumente anfordern. Der Bestätigungsprozess zur Kontoeröffnung dauert in der Regel weniger als 24 Stunden. In einigen Fällen kann es jedoch länger dauern, wenn zusätzliche Dokumentation oder umfassende Verifizierung erforderlich ist.
+    b2:
+      e1: Warum kann ich mich nicht registrieren?
+      e2: Um sich zu registrieren, füllen Sie einfach das Online-Formular aus und laden Sie die erforderlichen Dokumente hoch. Dieser Vorgang dauert etwa 10 Minuten.
+      u:
+        e1: Verbotene Branche
+        e2: Ungeeignete Unternehmensart
+        e3: Wohnsitz in einem sanktionierten Land
+    b3:
+      e1: Welche Branchen werden nicht unterstützt?
+      e2: 'Es könnte verschiedene Gründe geben, warum Sie sich nicht registrieren können:'
+      u:
+        e1: Illegale Glücksspieleinrichtungen
+        e2: Waffenhandel
+        e3: Illegale Drogen
+        e4: Anonyme Konten oder Kunden, die ihr Konto unter einem fiktiven Namen führen möchten
+        e5: Menschenhandel
+        e6: Shell-Banken, d.h. Banken ohne physische Präsenz oder Mitarbeiter
+        e7: Online-Erwachseneninhalt, Webcam, anstößiger Erwachseneninhalt und Live-Erwachseneninhalt
+        e8: Erwachsenenwerbung
+        e9: Kinderpornografie
+        e10: Zoophilie
+        e11: Sexuelle Gewalt/Hassrede/Gewalt
+        e12: Urheberrechtsverletzung
+    b4:
+      e1: Für welche Länder und Regionen bietet VoolaPay keinen Support?
+      u:
+        e1: Mali
+        e2: Marokko
+        e3: Nigeria
+        e4: Liberia
+        e5: Zentralafrikanische Republik
+        e6: Gazastreifen
+        e7: Guinea
+        e8: Senegal
+        e9: St. Maarten
+        e10: Burundi
+        e11: Albanien
+        e12: Sudan
+        e13: Kambodscha
+        e14: Amerikanische Jungferninseln
+        e15: Barbados
+        e16: Kaimaninseln
+        e17: Jamaika
+        e18: Ghana
+        e19: Demokratische Republik Kongo
+        e20: Guinea-Bissau
+        e21: Haiti
+        e22: Westjordanland
+        e23: Simbabwe
+        e24: Libyen
+        e25: Russland
+        e26: Weißrussland
+        e27: Südsudan
+        e28: Panama
+        e29: Pakistan
+        e30: Irak
+        e31: Somalia
+        e32: Nicaragua
+        e33: Myanmar
+        e34: Syrien
+        e35: Jemen
+        e36: Afghanistan
+        e37: Nordkorea
+        e38: Islamische Republik Iran
+    b5:
+      e1: Was ist Safeguarding?
+      e2: Dies ist ein besonderes Verfahren, das von der britischen Finanzaufsichtsbehörde vorgeschrieben ist, um die Kundengelder zu schützen. Safeguarding bedeutet, dass alle Kundengelder nicht bei VoolaPay, sondern auf speziellen Konten (sogenannte "Kundengeldkonten") bei europäischen Zentralbanken und großen Banken in Europa und Großbritannien gehalten werden müssen. Diese Konten sind von anderen Konten getrennt und absolut unberührbar.
+  curr:
+    e1: Girokonto
+    b1:
+      e1: Wie eröffne ich ein Girokonto?
+      e2: Sie können ein VoolaPay Girokonto remote eröffnen. Füllen Sie einfach ein kurzes Anmeldeformular auf unserer Website aus, und wir werden Sie über die für die Kontoeröffnung spezifischen erforderlichen Dokumente informieren.
+    b2:
+      e1: Wie schnell wird mein Konto eröffnet und worauf kommt es an?
+      e2: Die Geschwindigkeit der Kontoeröffnung hängt davon ab, wie schnell der Kunde Dokumente bereitstellt, die den Anforderungen vollständig entsprechen. Im Durchschnitt können juristische Personen ein VoolaPay Girokonto innerhalb von 1 Werktag eröffnen.
+    b3:
+      e1: Wie lade ich mein Konto auf?
+      e2: 'Es gibt verschiedene Möglichkeiten, Ihr Kontoguthaben aufzuladen:'
+      u:
+        e1: Überweisung von einem anderen VoolaPay-Konto in Ihrem persönlichen Kabinett.
+        e2: Überweisung von einem Konto bei einer anderen Bank.
+        e3: Aufladen Ihres Kontos mit einer Zahlungskarte.
+        e4: Aufladen Ihres Kontos mit unterstützten Kryptowährungen.
+        e5: Aufladen Ihres Kontos über das StableNFT-Zahlungssystem.
+      e3: Bitte beachten Sie, dass der maximale Betrag für die Kartenaufladung 2.000 € pro Transaktion und 10.000 € pro Woche beträgt.
+    b4:
+      e1: Ich habe keinen SMS-Code erhalten, um auf mein persönliches Konto zuzugreifen. Was soll ich tun?
+      e2: Wenn Sie innerhalb von 5 Minuten keinen SMS-Bestätigungscode erhalten haben, fordern Sie einen neuen SMS-Code an, indem Sie auf die Schaltfläche "Code erneut senden" klicken. Sie sollten innerhalb einer Minute eine Nachricht mit dem Bestätigungscode erhalten. Wenn dies das Problem nicht löst, versuchen Sie, Ihr Gerät neu zu starten und Ihr Mobilfunknetz zu überprüfen. Sie können sich auch über eine alternative Methode, wie E-Mail und G2FA, in Ihr persönliches Konto einloggen.
+  master:
+    e1: Voola Pay Mastercard
+    b1:
+      e1: Wie bestelle ich eine neue Karte?
+      e2: Sie können eine Karte in Ihrem VoolaPay Girokonto bestellen. Wählen Sie im linken Navigationsmenü den Abschnitt "Karten" aus, klicken Sie auf die Schaltfläche "Karte bestellen", füllen Sie die erforderlichen Informationen aus und senden Sie Ihre Anfrage ab. Sie können auch eine Karte über die VoolaPay Mobile App im Abschnitt "Karten" bestellen.
+    b2:
+      e1: Wie viele Zahlungskarten kann ich haben?
+      e2: Eine Person kann bis zu 3 aktive Karten (einschließlich virtueller Karten) auf ihren Namen haben.
+    b3:
+      e1: Lieferzeiten und Optionen für die Kartenlieferung?
+      e2: 'Die Kartenlieferung erfolgt auf zwei Arten:'
+      u:
+        e1: 'Standard-Postzustellung: 5-12 Werktage'
+        e2: 'UPS-Kurierservice: 1-3 Werktage'
+      e3: Bitte beachten Sie, dass dies ungefähre Lieferzeiten sind und wir kein bestimmtes Lieferdatum garantieren können.
+
+business:
+  e1: Geschäftskonto mit <span>VOOLA PAY</span>
+  acc:
+    b1:
+      e1: Persönlicher Manager und 100%ige Sicherheit der Gelder
+      e2: Erleben Sie schnelle weltweite Zahlungen für europäische und internationale Unternehmen. Profitieren Sie von einem persönlichen Manager und der vollständigen Sicherheit Ihrer Gelder.
+    b2:
+      e1: Konto eröffnen
+      e2: Überweisen Sie schnell und ohne technische Einschränkungen. Wir wissen, wie man mit großen Unternehmen arbeitet, sodass Ihre Zahlungen nicht "stecken bleiben", nur weil sie "groß" sind. Die Zahlungslimits werden entsprechend dem Umsatz und den Spezifikationen Ihres Unternehmens festgelegt. Erfahren Sie mehr
+    b3:
+      e1: Nutzen Sie die Vorteile eines UK-Kontos
+      e2: Das Vereinigte Königreich ist eine der renommiertesten Rechtsprechungen weltweit. Transparente und klare Finanzregulierungsvorschriften helfen Unternehmen, erfolgreich zu sein. Unsere Kundendaten sind vollständig vertraulich, während Informationen über unsere Aktionäre offen und für jeden zugänglich sind. Erfahren Sie mehr
+  pay:
+    b1:
+      e1: Wachsen Sie mit uns
+      e2: Nutzen Sie unsere technologischen Lösungen und Finanzinstrumente, einschließlich Massenauszahlungen, API-Integration, Gehaltsprojekte, Zahlungsgateways, besicherte Kredite und Geschäftseinlagen.
+    b2:
+      e1: Seien Sie versichert, dass Ihr Geld sicher ist
+      e2: Gemäß den Sicherheitsanforderungen der FCA sind die Gelder unserer Kunden geschützt. Kundengelder werden auf segregierten Konten aufbewahrt, die von den eigenen Geldern von Voola Pay getrennt sind. Wir wählen sorgfältig die Kreditinstitute (Banken) aus, die zur Aufbewahrung von Kundengeldern verwendet werden, und stellen sicher, dass sie keine Rechte an den Geldern auf den Konten haben. Dies bedeutet, dass auch im Falle einer Insolvenz der Banken oder von Voola Pay das Geld unserer Kunden geschützt bleibt. Erfahren Sie mehr
+    b3:
+      e1: Behalten Sie rund um die Uhr die Kontrolle über Ihre Finanzen
+      e2: Tätigen Sie weltweit kontaktlose Zahlungen mit der Voola Pay Mastercard Geschäftskarte in jeder Währung. Die Zahlungskarte und die Lieferung sind in den Kosten für die Kontoeröffnung enthalten. Verwenden Sie die virtuelle Karte für zusätzliche Sicherheit bei Online-Transaktionen. Genießen Sie die Bequemlichkeit einer mobilen Brieftasche für nahtlose Zahlungen. Erfahren Sie mehr
+    b4:
+      e1: Tausende zufriedene Kunden aus 66 Ländern weltweit.
+      e2: 7 Jahre erfolgreiche Erfahrung im Fintech-Markt.
+      e3: Durchschnittliche Kontoeröffnungszeit von 9,3 Stunden für unsere Kunden.
+    b5:
+      e1: Genießen Sie technologische Fortschritte
+      e2: Nutzen Sie Ihr Smartphone statt eines Code-Rechners. Mehrfacher Kontozugriff mit differenzierten Rechten. Die iOS-/Android-Mobile-App dient sowohl Ihrem Geschäftskonto als auch Ihrem persönlichen Konto und ermöglicht es Ihnen, mit einem einzigen Klick zwischen den Konten zu wechseln.
+  dev:
+    e1: Entwickeln Sie in Ihrer Branche mit <span>VOOLA PAY</span>
+    b1:
+      e1: 'Großhandel: Steigern Sie Ihren Umsatz'
+      e2: Unsere Manager verstehen die Besonderheiten von Waren, Rechnungen, Spezifikationen, CMRs und anderen Begleitdokumenten. Nutzen Sie Zahlungen von/zu Drittländern, einschließlich Währungen von Drittländern. Aktivieren Sie SEPA Instant-Zahlungen und andere Kanäle. Implementieren Sie ein Gehaltsprojekt.
+    b2:
+      e1: 'E-Commerce: Entwickeln Sie Ihren Marktplatz'
+      e2: Genießen Sie schnelle SEPA Instant-Zahlungen, erhöhte Sicherheit und ein Gehaltsprojekt. Nutzen Sie zwei Konten für administrative Aktivitäten und Auszahlungen. Erhalten Sie kompetenten technischen Support und einen persönlichen Manager.
+    b3:
+      e1: 'Logistik: Sparen Sie Zeit und Geld'
+      e2: Genießen Sie klare und einfache Anforderungen für die Eröffnung eines Geschäftskontos. Tätigen Sie Zahlungen von/zu Drittländern ohne technische Beschränkungen, einschließlich Währungen von Drittländern. Unsere persönlichen Manager verfügen über Expertise in Zollpapieren und Transportbesonderheiten, einschließlich Nischenbereichen wie Versand. Profitieren Sie von schnellen Währungsumrechnungen zu günstigen Kursen. Implementieren Sie ein Gehaltsprojekt.
+    b4:
+      e1: 'Fintech: Verbinden Sie sich mühelos'
+      e2: Zugang zu mehreren Zahlungskanälen, einschließlich SEPA und CHAPS. Genießen Sie einen komfortablen Onboarding-Prozess, der speziell für Fintech-Unternehmen entwickelt wurde. Nutzen Sie ein Administrationsaktivitätskonto, ein Kundengeldkonto in Partnerschaft mit Partnern, ein Sicherungskonto und einen reaktionsschnellen Support.
+    b5:
+      e1: 'Gaming: Erhalten Sie sofortige Mittel'
+      e2: 'Massenauszahlungen über API und Mastercard Debitkarten. Direkte Integration mit SEPA Instant und Open Banking API für schnellen Erhalt und Versand von Zahlungen. Integration mit Zahlungssystemen anstelle von Kartenzahlungen: Sofortige Händlerabrechnungen ohne Rückbuchungen.'
+    b6:
+      e1: Arbeiten Sie mit Drittländern zusammen
+      e2: Akzeptieren und senden Sie Zahlungen von/zu Drittländern. Währungen direkt in Ihrem persönlichen Schrank zu günstigen Kursen umrechnen.
+    b7:
+      e1: Seien Sie versichert
+      e2: Voola Pay entwickelt seine Fintech-Plattform selbstbewusst und stetig weiter und fügt neue Produkte hinzu und verbessert bestehende. Unser Ziel ist es, uns selbst zu entwickeln und unseren Kunden zu helfen, sich weiterzuentwickeln.
+
+privacy:
+  e1: Datenschutzerklärung
+  b1:
+    e1: Willkommen bei der Datenschutzerklärung von L7P Ltd ("L7P"). Bitte nehmen Sie sich einen Moment Zeit, um sie sorgfältig durchzulesen, bevor Sie uns personenbezogene Informationen über Sie oder andere Personen zur Verfügung stellen.
+    e2: Datenschutzerklärung von L7P (nachfolgend "L7P"). Bitte nehmen Sie sich einen Moment Zeit, um sie sorgfältig durchzulesen, bevor Sie uns personenbezogene Informationen über Sie oder andere Personen zur Verfügung stellen. Sodalitium Limited (nachfolgend "Salazar Pay") ist eine Plattform, die von Xward Pay Inc. (nachfolgend "XWARD", "wir", "unser" oder "uns") und seinen Partnern betrieben wird. Im Sinne des Datenschutzrechts ist XWARD ein Verantwortlicher für die von Ihnen erhaltenen oder anderweitig über Sie gesammelten personenbezogenen Daten, und wir sind dafür verantwortlich, dass die Verwendung Ihrer personenbezogenen Daten den geltenden Datenschutzgesetzen ("Allgemeine Datenschutzverordnung") entspricht. Als Verantwortlicher für Ihre personenbezogenen Daten bestimmen wir die "Mittel" und "Zwecke" der Verarbeitungsaktivitäten, die von uns durchgeführt werden.
+    e3: Der europäische Vertreter von XWARD ist Afacomp UAB mit Sitz in A. Tumeno Str. 4, 01109 Vilnius, Litauen.
+  b2:
+    e1: Hintergrund
+    e2: Wir müssen bestimmte Arten von Informationen über natürliche und juristische Personen sammeln und verwenden, die unsere Dienstleistungen in Anspruch nehmen möchten.
+    e3: Die personenbezogenen Informationen müssen gemäß der AML-Richtlinie des Unternehmens und gemäß dieser Datenschutzrichtlinie in Übereinstimmung mit der DSGVO und internationalen Standards angemessen gesammelt und behandelt werden.
+    e4: Gemäß den Bestimmungen der DSGVO und internationaler Standards bestätigt jeder Benutzer, der seine Informationen gemäß dieser Richtlinie zur Verfügung stellt, dass er den Grund für die Erfassung von Informationen versteht und der Verarbeitung von Informationen zum Zwecke der Verhinderung von Geldwäsche zustimmt.
+    e5: Jeder Benutzer hat das Recht zu wissen, wer für die Verarbeitung seiner personenbezogenen Daten verantwortlich ist.
+    e6: Alle im Rahmen unseres Geschäfts erhobenen Daten, egal ob auf Papier gesammelt, in einer Computerdatenbank gespeichert oder auf einem anderen Material aufgezeichnet, unterliegen dieser Richtlinie und sind durch das geltende Recht und die DSGVO-Bestimmungen zum Datenschutz und zur Datenverarbeitung geschützt.
+  b3:
+    e1: Was deckt diese Richtlinie ab?
+    e2: Diese Datenschutzerklärung gilt nur für die Nutzung unserer Website. Die Website kann Links zu anderen Websites enthalten. Bitte beachten Sie, dass wir keine Kontrolle darüber haben, wie Ihre Daten von anderen Websites erfasst, gespeichert oder verwendet werden, und wir empfehlen Ihnen, die Datenschutzrichtlinien solcher Websites zu überprüfen, bevor Sie ihnen Daten zur Verfügung stellen.
+  b4:
+    e1: Was sind personenbezogene Daten?
+    e2: Personenbezogene Daten werden im Personal Information Protection and Electronic Documents Act als "alle Informationen definiert, die sich auf eine identifizierbare Person beziehen, die insbesondere durch einen Identifikator direkt oder indirekt identifiziert werden kann".
+    e3: Personenbezogene Daten sind im einfacheren Sinne alle Informationen über Sie, die es Ihnen ermöglichen, identifiziert zu werden. Personenbezogene Daten umfassen Informationen wie Ihren Namen und Ihre Kontaktdaten, aber auch weniger offensichtliche Informationen wie Identifikationsnummern, elektronische Standortdaten und andere Online-Kennungen.
+  b5:
+    e1: Welche Daten sammeln wir?
+    e2: Wir sammeln personenbezogene Informationen im Rahmen unseres Geschäfts mit Ihnen, wenn Sie sich für die Nutzung unserer Produkte und/oder Dienstleistungen bewerben. Die Informationen werden mit Ihrer Zustimmung oder nach den gesetzlichen Bestimmungen gesammelt oder erforderlichenfalls verarbeitet.
+    e3: 'Abhängig von Ihrer Nutzung unserer Website können die von Ihnen bereitgestellten oder von uns erfragten und gesammelten personenbezogenen Informationen folgende umfassen:'
+    e4: 'Identitätsdaten:'
+    u1:
+      e1: Vorname,
+      e2: Nachname,
+      e3: Titel,
+      e4: Geburtsdatum und Geschlecht,
+      e5: biometrische Informationen für Gesichtserkennungszwecke,
+      e6: Ausweisdokumente wie nationale Ausweiskarte, Pässe, Führerscheine oder andere Ausweisdokumente.
+    e5: 'Mit Identität verbundene Daten:'
+    u2:
+      e1: Risikobewertung,
+      e2: Compliance-Bewertung.
+    e6: 'Kontaktdaten:'
+    u3:
+      e1: Wohnsitzdetails,
+      e2: Rechnungsadresse,
+      e3: Lieferadresse,
+      e4: E-Mail-Adresse und Telefonnummern,
+      e5: Adressnachweisdokumente.
+    e7: 'Finanzdaten:'
+    u4:
+      e1: Bankkontodaten,
+      e2: Zahlungskartendaten,
+      e3: mit Konten verbundene Beträge,
+      e4: externe Kontodaten,
+      e5: Herkunft von Geldern und zugehörige Dokumente.
+    e8: 'Transaktionsdaten:'
+    u5:
+      e1: Details zu eingehenden und ausgehenden Zahlungen,
+      e2: andere Details zu Transaktionen, die Sie über die Dienste, die Website oder die App eingeben.
+    e9: 'Technische Daten:'
+    u6:
+      e1: Internetverbindungsdetails,
+      e2: IP-Adresse,
+      e3: Betreiber- und Trägerdaten,
+      e4: Anmeldedaten,
+      e5: Browsertyp und -version,
+      e6: Gerätetyp, Kategorie und Modell,
+      e7: Zeitzoneneinstellungen und Standortdaten,
+      e8: Sprachdaten,
+      e9: Browser-Plug-in-Typen und -Versionen,
+      e10: Betriebssystem und Plattform,
+      e11: Diagnosedaten wie Absturzprotokolle und alle anderen Daten, die wir zu Messzwecken technischer Diagnosen erfassen, sowie andere Informationen, die auf oder verfügbar sind, bezüglich der Geräte, denen Sie uns Zugriff erlauben, wenn Sie die Website besuchen oder die Dienste oder die App nutzen.
+    e10: 'Profil-Daten:'
+    u7:
+      e1: Ihr Benutzername und Passwort,
+      e2: Ihre Identifikationsnummer als unser Benutzer,
+      e3: Ihre Anfragen für Produkte oder Dienstleistungen,
+      e4: Ihre Interessen, Vorlieben und Feedback,
+      e5: andere von Ihnen generierte Informationen, wenn Sie mit unserem Kundensupport kommunizieren.
+    e11: Diese Informationen können durch Papierdokumente, gescannte oder gefaxte Kopien, Telefonate, E-Mails, mündliche Interviews, persönliche Interaktionen oder Daten, die wir über unsere Website oder App erhalten, gesammelt werden. Diese Informationen umfassen die von uns über Sie gesammelten Informationen und die von Ihnen mit uns zusammenhängenden Personen, einschließlich Vertragspartnern oder Empfängern oder Begünstigten von Geldern oder Dienstleistungen.
+    e12: Wir sammeln diese Informationen über unsere Mitarbeiter, verbundenen Unternehmen und Online-Ressourcen, staatliche Stellen oder Geschäftspartner oder Verbraucherberichterstattungsagenturen oder werden von Ihnen von Anfang an bereitgestellt, wenn Sie sich an uns wenden, um unsere Dienstleistungen in Anspruch zu nehmen.
+    e13: Wir verarbeiten keine "sensiblen Daten", es sei denn, es handelt sich um biometrische Daten, die zur eindeutigen Identifizierung einer natürlichen Person verarbeitet werden.
+  b6:
+    e1: Wie verwenden wir Ihre personenbezogenen Daten?
+    e2: 'Gemäß dem geltenden Recht müssen wir immer eine rechtliche Grundlage für die Verwendung personenbezogener Daten haben. Dies kann daran liegen, dass die Daten für unsere Erbringung von Dienstleistungen an Sie und die Erfüllung eines Vertrags mit Ihnen erforderlich sind, weil Sie in die Verwendung Ihrer personenbezogenen Daten eingewilligt haben oder weil es in unserem berechtigten Interesse liegt, sie zu verwenden. Ihre personenbezogenen Daten können zu einem der folgenden Zwecke verwendet werden:'
+    u:
+      e1: Bereitstellung und Verwaltung Ihres Zugriffs auf unsere Website oder App;
+      e2: Bereitstellung unserer Produkte und Dienstleistungen an Sie;
+      e3: Kommunikation mit Ihnen;
+      e4: Führung unserer eigenen Konten und Aufzeichnungen;
+      e5: Erfüllung gesetzlicher und regulatorischer Verpflichtungen unsererseits und Ihrerseits; und
+      e6: Analyse Ihrer Nutzung unserer Website, um uns zu ermöglichen, sie und Ihre Benutzererfahrung kontinuierlich zu verbessern.
+  b7:
+    e1: Opt-Out-Recht
+    e2: Wir können Ihre Kontaktdaten und Informationen zu Ihren Serviceneinstellungen für Marketing- und Werbezwecke verwenden, um Ihnen Angebote oder Aktionen von uns oder unseren Partnern zu senden. Sie können Ihre Zustimmung zu Offenlegungen von Informationen für die in diesem Abschnitt beschriebenen Zwecke jederzeit widerrufen, indem Sie uns kontaktieren unter
+  b8:
+    e1: Wie lange werden wir Ihre personenbezogenen Daten aufbewahren?
+    e2: Wir werden Ihre personenbezogenen Daten für einen Zeitraum aufbewahren, der erforderlich ist, um Ihnen Dienstleistungen zu erbringen, oder für einen längeren Zeitraum, wenn wir die Daten verarbeiten müssen, um die Einhaltung aller einschlägigen Gesetze und behördlichen Verpflichtungen zu gewährleisten, denen wir unterliegen.
+  b9:
+    e1: Wie und wo speichern wir Ihre personenbezogenen Daten?
+    e2: 'Personenbezogene Daten werden sowohl manuell als auch elektronisch verarbeitet und können an verschiedenen Orten gespeichert werden, die den Betrieb eines typischen Unternehmens betreffen. Die Standorte, an denen Ihre personenbezogenen Daten gespeichert werden können, umfassen, sind aber nicht beschränkt auf:'
+    u:
+      e1: Unsere Datenbanken und CRM;
+      e2: E-Mails auf Computern;
+      e3: Mobiltelefone und Tablets;
+      e4: Kontaktadressbücher;
+      e5: Visitenkarten;
+      e6: Notizbücher;
+      e7: Elektronische Dokumente auf unseren Dateiservern;
+      e8: Papierschriften in unseren Büros;
+      e9: Cloud-Backup und -Speicherung.
+    e3: Die Sicherheit Ihrer personenbezogenen Daten ist uns wichtig, und zum Schutz Ihrer Daten verwenden und pflegen wir angemessene technische und organisatorische Maßnahmen, um Ihre personenbezogenen Daten zu schützen und die unbeabsichtigte oder rechtswidrige Zerstörung, den Verlust, die Veränderung, die unbefugte Offenlegung oder den Zugriff auf personenbezogene Daten zu verhindern, die übertragen, gespeichert oder anderweitig verarbeitet werden. Wir haben Rahmenbedingungen, Verfahren und Schulungen für Informationssicherheit, Vertraulichkeit und Datenschutz.
+  b10:
+    e1: Weitergabe und Übermittlung personenbezogener Daten
+    e2: Wir geben personenbezogene Daten nur an Dritte weiter, soweit dies zur Erbringung unserer Dienstleistungen erforderlich ist und/oder um Ihren Anweisungen nachzukommen. Wir können Ihre personenbezogenen Daten mit unseren verbundenen Unternehmen und Tochtergesellschaften teilen. Wir geben Ihre persönlichen Informationen nicht an Dritte weiter oder verkaufen sie.
+    e3: Darüber hinaus sind wir möglicherweise gesetzlich verpflichtet, bestimmte personenbezogene Daten, die auch Ihre betreffen könnten, offenzulegen, wenn wir an rechtlichen Verfahren beteiligt sind, gesetzlichen Verpflichtungen nachkommen müssen, einer gerichtlichen Anordnung oder den Anweisungen einer Regierungsbehörde folgen müssen.
+    e4: Wenn ein Dritter Ihre personenbezogenen Daten benötigt, ergreifen wir Maßnahmen, um sicherzustellen, dass Ihre personenbezogenen Daten sicher, geschützt und in Übereinstimmung mit Ihren Rechten, unseren Pflichten und den Pflichten des Dritten gemäß dem Gesetz behandelt werden.
+    e5: Da einige unserer externen Drittanbieter ihren Sitz außerhalb des Europäischen Wirtschaftsraums (EWR) haben, kann die Verarbeitung Ihrer personenbezogenen Daten eine Übertragung von Daten außerhalb des EWR umfassen.
+    e6: 'Immer wenn wir Ihre personenbezogenen Daten außerhalb des EWR übertragen, stellen wir sicher, dass ein ähnliches Schutzniveau gewährleistet wird, indem mindestens eine der folgenden Maßnahmen umgesetzt wird:'
+    u:
+      e1: das Land, in das wir Ihre personenbezogenen Daten übertragen, wurde von der Europäischen Kommission als angemessenes Schutzniveau für personenbezogene Daten eingestuft;
+      e2: ein spezifischer Vertrag, der von der Europäischen Kommission genehmigt wurde und Sicherheitsvorkehrungen für die Verarbeitung personenbezogener Daten enthält, die sogenannten Standardvertragsklauseln.
+  b11:
+    e1: Vertraulichkeit
+    e2: Wir wahren physische, elektronische und Verfahrenssicherungen, um personenbezogene Informationen gegen Verlust, Diebstahl und unbefugten Zugriff zu schützen. Nur autorisierte Mitarbeiter, Agenten oder Vertreter, die Zugriff auf Ihre personenbezogenen Informationen benötigen, um ihre Jobanforderungen zu erfüllen, haben Zugriff auf die Informationen. Unsere Verpflichtungen treten erst in Kraft, wenn die Informationen physisch bei uns eingehen oder über unsere internen Systeme empfangen werden, nicht jedoch während der Übertragung aus unserem physischen Besitz oder unseren internen Systemen; Da der Datenaustausch über das Internet, das Telefonnetz oder die physische Post nicht als vollkommen sicher garantiert werden kann, erfolgt die Übermittlung personenbezogener Informationen an uns über das Internet oder telefonisch auf eigene Gefahr, und wir garantieren nicht die Sicherheit derart übermittelter Informationen. Sie sollten Vorsicht walten lassen, um zu verhindern, dass Dritte oder Parteien, die sich betrügerisch als wir ausgeben, Ihre Übertragungen rechtswidrig abfangen oder dazu bringen, personenbezogene Informationen preiszugeben.
+  b12:
+    e1: Zustimmung
+    e2: Durch die Nutzung unserer Website, mobilen Anwendung und verwandten Dienstleistungen erklären Sie Ihr Einverständnis mit unserer Datenschutzrichtlinie.
+    e3: Diese Datenschutzerklärung gibt unsere Absichten bezüglich Ihrer von uns erfassten personenbezogenen Informationen wieder. Durch die Bereitstellung personenbezogener Informationen gehen wir davon aus, dass Sie der Erhebung, Verwendung und Offenlegung solcher Informationen für die in dieser Datenschutzrichtlinie beschriebenen Zwecke zustimmen, soweit dies anwendbar ist. Bitte beachten Sie, dass Ihre Zustimmung die Zustimmung zur Verwendung Ihrer E-Mail-Adressen, Postanschriften und anderer von Ihnen bereitgestellter Kontaktressourcen beinhaltet, um mit Ihnen zu kommunizieren.
+    e4: 'Ihre Zustimmung kann auf verschiedene Weise erteilt werden, wie zum Beispiel: Mündlich, elektronisch oder in einem beliebigen Formular auf einem Dokument; oder durch freiwillige Entscheidung, unsere Dienstleistungen zu nutzen; durch das Nichtwiderrufen der Zustimmung zur Verwendung Ihrer personenbezogenen Informationen für einen bestimmten Zweck; durch das Nichtnutzen einer "Opt-out"-Option, sofern in dieser Erklärung vorgesehen, falls vorhanden. Eine solche Zustimmung kann direkt von Ihnen oder von Ihrem gesetzlichen Vertreter gegeben werden.'
+    e5: Der Widerruf Ihrer Zustimmung liegt ganz in Ihrer eigenen Wahl zu jeder Zeit und wird wirksam sein, außer in Fällen, in denen wir gesetzlichen, vertraglichen, behördlichen, staatlichen und/oder gesetzlichen Verpflichtungen für die Aufbewahrung und Offenlegung von Aufzeichnungen unterliegen; und außer im Falle bereits eingeleiteter Transaktionen, die die Verwendung Ihrer personenbezogenen Informationen zur Erfüllung erfordern. Beachten Sie, dass im Falle eines solchen Widerrufs der Zustimmung wir möglicherweise nicht mehr in der Lage sind, bestimmte unserer Produkte oder Dienstleistungen anzubieten, für die Ihre personenbezogenen Informationen erforderlich sind.
+  b13:
+    e1: Ihre Rechte
+    e2: 'Unter dieser Datenschutzrichtlinie haben Sie folgende Rechte:'
+    o:
+      e1: Das Recht, über die Erhebung und Verwendung Ihrer personenbezogenen Daten informiert zu werden.
+      e2: Das Recht, Zugriff auf die personenbezogenen Daten zu erhalten, die wir über Sie halten - Sie haben das Recht, zu bestätigen, ob wir personenbezogene Daten über Sie verarbeiten, und bestimmte Informationen darüber, wie und warum wir Ihre personenbezogenen Daten verarbeiten.
+      e3: Das Recht, Ihre personenbezogenen Daten zu berichtigen oder zu korrigieren, wenn die von uns über Sie gehaltenen personenbezogenen Daten ungenau oder unvollständig sind.
+      e4: Das Recht auf Löschung (auch als "Recht auf Vergessenwerden" bekannt), d.h. das Recht, von uns die Löschung oder anderweitige Entsorgung aller personenbezogenen Daten zu verlangen, die wir über Sie haben.
+      e5: Das Recht, die Verarbeitung Ihrer personenbezogenen Daten einzuschränken.
+      e6: Das Recht, der Verwendung Ihrer personenbezogenen Daten für einen bestimmten Zweck oder bestimmte Zwecke zu widersprechen.
+      e7: Das Recht auf Datenübertragbarkeit. Dies bedeutet, dass Sie, wenn Sie uns personenbezogene Daten direkt zur Verfügung gestellt haben, die wir mit Ihrer Zustimmung oder zur Erfüllung eines Vertrags oder zur Erbringung von Dienstleistungen verarbeiten, und diese Daten mit automatisierten Mitteln verarbeitet werden, uns um eine Kopie dieser personenbezogenen Daten bitten können, um sie für einen anderen Dienst oder ein anderes Unternehmen erneut zu verwenden.
+      e8: Das Recht, eine Beschwerde einzureichen. Wenn Sie in einem EWR-Mitgliedsstaat wohnhaft sind, haben Sie das Recht, eine Beschwerde über die Art und Weise, wie wir Ihre personenbezogenen Daten verarbeiten, bei der Aufsichtsbehörde in dem EWR-Mitgliedsstaat Ihres gewöhnlichen Aufenthaltsorts, Arbeitsorts oder des Orts des behaupteten Verstoßes einzureichen.
+      e9: Rechte in Bezug auf automatisierte Entscheidungsfindung und Profilbildung. Wir verwenden Ihre personenbezogenen Daten nicht auf diese Weise.
+    e3: Für weitere Informationen über unsere Verwendung Ihrer personenbezogenen Daten oder die Ausübung Ihrer oben genannten Rechte oder wenn Sie eine Beschwerde einreichen möchten, kontaktieren Sie uns bitte unter
+  b14:
+    e1: Cookies
+    e2: Dieser Abschnitt gilt für unsere Website und mobile Anwendung.
+    e3: Mit dem Zugriff auf die Website erklären Sie sich damit einverstanden, dass dieser Abschnitt jedes Mal gilt, wenn Sie auf die Website auf einem beliebigen Gerät zugreifen.
+    e4: Alle Änderungen an dieser Richtlinie werden hier veröffentlicht. Wir behalten uns das Recht vor, diesen Abschnitt von Zeit zu Zeit zu ändern, und solche Änderungen werden wirksam, sobald sie veröffentlicht werden. Ihre fortgesetzte Nutzung der Website stellt Ihre Zustimmung zu allen solchen Änderungen dar.
+    e5: Diese Richtlinie erläutert, wie Cookies auf unserer Website im Allgemeinen verwendet werden und wie Sie die Cookies steuern können, die auf diesen Websites verwendet werden (nicht alle von ihnen werden auf jeder Website verwendet).
+  b15:
+    e1: Was sind Cookies und wie verwenden wir sie?
+    e2: Cookies sind kleine Textdateien, die von Ihrem Browser auf Ihrem Computer gespeichert werden. Sie dienen zu vielen Zwecken, wie zum Beispiel der Erinnerung daran, ob Sie die Website zuvor besucht haben, damit Sie eingeloggt bleiben, oder um uns dabei zu helfen, herauszufinden, wie viele neue Besucher unsere Website jeden Monat erhalten. Sie enthalten Informationen über die Verwendung Ihres Computers, enthalten jedoch keine persönlichen Informationen über Sie (Ihr Name wird beispielsweise nicht gespeichert).
+    e3: Wir verwenden Cookies, um die angebotenen Dienste und Funktionen auf unseren Websites bereitzustellen und das Benutzererlebnis kontinuierlich zu verbessern.
+    e4: Wir verwenden möglicherweise auch Google Analytics, um den Datenverkehr auf unserer Website zu verfolgen und zu analysieren, um die Funktionalität unserer Website zu verbessern, indem Daten darüber gesammelt werden, wie, wann und wo Menschen unsere Website nutzen oder darauf zugreifen. Google Analytics erfasst keine personenbezogenen Daten.
+
+  b16:
+    e1: Wie können Sie Cookies verwalten?
+    u1:
+      e1: Cookies von Ihrem Gerät entfernen
+    e2: Sie können alle Cookies, die bereits auf Ihrem Gerät gespeichert sind, löschen, indem Sie den Browserverlauf Ihres Browsers löschen. Dadurch werden alle Cookies von allen Websites entfernt, die Sie besucht haben. Beachten Sie jedoch, dass Sie möglicherweise auch einige gespeicherte Informationen verlieren (z. B. gespeicherte Anmeldedaten, Website-Einstellungen).
+    u2:
+      e1: Verwaltung von Cookies für bestimmte Websites
+    e3: Für eine genauere Kontrolle über cookies für bestimmte Websites können Sie die Datenschutz- und Cookie-Einstellungen in Ihrem bevorzugten Browser überprüfen.
+    u3:
+      e1: Cookies blockieren
+    e4: Sie können die meisten modernen Browser so einstellen, dass keine Cookies auf Ihrem Gerät platziert werden, aber Sie müssen möglicherweise einige Einstellungen jedes Mal manuell anpassen, wenn Sie eine Website/Bereich besuchen. Und einige Dienste und Funktionen funktionieren möglicherweise überhaupt nicht ordnungsgemäß (z. B. Profilanmeldung).
+    u4:
+      e1: Verwaltung unserer Analytics-Cookies
+    e5: Sie können Ihre Cookie-Einstellungen verwalten, wenn Sie unsere Website betreten.
+  b17:
+    e1: Änderungen dieser Datenschutzrichtlinie
+    e2: Wir können diese Datenschutzerklärung von Zeit zu Zeit ändern. Dies kann beispielsweise erforderlich sein, wenn sich das Gesetz ändert oder wenn wir unser Geschäft so ändern, dass dies den Schutz personenbezogener Daten betrifft.
+    e3: Alle Änderungen werden auf unserer Website veröffentlicht, und Sie gelten als mit den Bedingungen der Datenschutzrichtlinie einverstanden, wenn Sie unsere Website zum ersten Mal nach den Änderungen nutzen.
+
+footer:
+  e1: Datenschutzrichtlinie
+  e2: Website Nutzungsbedingungen
+  e3: Nutzungsbedingungen

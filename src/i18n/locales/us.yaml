@@ -1,0 +1,396 @@
+---
+header:
+  e1: Business
+  e2: F.A.Q
+  e3: Log In
+  e4: Sign Up
+
+home:
+  e1: Welcome to <span>VOOLA PAY</span> - the Bank of the Future in your pocket!
+  e2: VOOLA PAY is a cutting-edge payment platform designed for individuals, freelancers and businesses, offering a range of features to manage your finances with ease. With our platform, you can enjoy the benefits of multi-currency accounts, make international and local payments, and access a comprehensive app for all your financial operations.
+
+how-it-works:
+  e1: How it Works
+  b1:
+    e1: Apply in seconds
+    e2: To get started, simply provide your local phone number and a valid ID or passport.
+  b2:
+    e1: Top up with ease
+    e2: Load funds into your Voola Pay account effortlessly. Choose from options such as debit cards, bank transfers, mobile money, cryptocurrencies, StableNFT, or bill payment terminals, depending on your country.
+  b3:
+    e1: Get instant access
+    e2: Once you top up your Voola Pay app, you gain immediate access to a virtual Mastercard, which will allow you to send payments as easily as messages.
+  b4:
+    e1: Manage your money anytime, anywhere
+    e2: With Voola Pay, you have complete control over your finances. Send money across multiple countries, conveniently pay your bills, shop online at millions of stores worldwide, and benefit from our limited-time cashback offers.
+
+virtual-card:
+  e1: Virtual Card
+  e2: Shop with ease using our virtual Mastercard. Gain access to your card within seconds and enjoy the convenience of online shopping at millions of stores worldwide. Take advantage of our limited-time cashback offers to make your purchases even more rewarding. Additionally, pay your bills effortlessly using our virtual card, all with a simple tap on your phone.
+
+physical-card:
+  e1: Physical Card
+  e2: Request our physical Mastercard and have it delivered to your doorstep (available not all regions). Experience the freedom of contactless payments, allowing you to make purchases on the go, anytime and anywhere. With acceptance at over 50 million stores globally, it's like carrying cash in your pocket.
+
+multi-currency:
+  b1:
+    e1: Multi-Currency Accounts
+    e2: Store your funds in various currencies with our multi-currency accounts. Make international payments receive instant expenditure notifications, and easily track your expenses within the Voola Pay app.
+  b2:
+    e1: Local and International Payments
+    e2: Send and receive payments both locally and internationally with transparent fees, eliminating the need for complex tariff plans. Enjoy free and instant transfers between L7P.io accounts.
+  b3:
+    e1: Excellent Exchange Rates
+    e2: Benefit from competitive interbank exchange rates, allowing you to exchange currencies without hidden fees. Enjoy exceptional rates for popular currencies.
+
+security:
+  e1: Security
+  e2: At Voola Pay, we prioritize your security and peace of mind
+  b1:
+    e1: Segregated UK accounts
+    e2: 3D Secure
+    e3: Two-factor authentication (2FA)
+  e3: Our advanced data encryption ensures the protection of your payments. Stay informed about your app usage through push notifications, email alerts, and text messages. Whenever you need assistance, our friendly chat support agents are ready to help.
+  e4: Join the banking of the future with Voola Pay. Sign up today and experience seamless financial management at your fingertips.
+
+faq:
+  e1: F.A.Q
+  reg:
+    e1: Registration
+    b1:
+      e1: How to Register?
+      e2: To register, simply fill out the online form and upload the required documents. This process should take approximately 10 minutes.
+      e3: Once you have answered a few questions, our team will review your application and may request additional documents if necessary. The account opening confirmation process typically takes less than 24 hours, but in some cases, if additional documentation or in-depth verification is required, it may take longer.
+    b2:
+      e1: Why Can't I Register?
+      e2: To register, simply fill out the online form and upload the required documents. This process should take approximately 10 minutes.
+      u:
+        e1: Prohibited industry
+        e2: Inappropriate company type
+        e3: Residing in a country under sanctions
+    b3:
+      e1: Which Industries are Not Supported?
+      e2: 'There could be several reasons why you are unable to register:'
+      u:
+        e1: Illegal gambling establishments
+        e2: Weapons traders
+        e3: Illegal drugs
+        e4: Anonymous accounts or customers who wish to keep their account under a fictional name
+        e5: Human trafficking
+        e6: Shell Banks, i.e., banks without physical presence or staff
+        e7: Online adult content, webcam, offensive adult content, and live adult content categories
+        e8: Adult advertising
+        e9: Child pornography
+        e10: Zoophilia
+        e11: Sexual violence/Hate speech/Violence
+        e12: Copyright infringement
+    b4:
+      e1: Which Countries and Regions Does VoolaPay Not Support?
+      u:
+        e1: Mali
+        e2: Morocco
+        e3: Nigeria
+        e4: Liberia
+        e5: Central African Republic
+        e6: Gaza Strip
+        e7: Guinea
+        e8: Senegal
+        e9: St Maarten
+        e10: Burundi
+        e11: Albania
+        e12: Sudan
+        e13: Cambodia
+        e14: United States Virgin Islands
+        e15: Barbados
+        e16: Cayman Islands
+        e17: Jamaica
+        e18: Ghana
+        e19: Congo, the Democratic Republic
+        e20: Guinea Bissau
+        e21: Haiti
+        e22: West Bank
+        e23: Zimbabwe
+        e24: Libya
+        e25: Russia
+        e26: Belarus
+        e27: South Sudan
+        e28: Panama
+        e29: Pakistan
+        e30: Iraq
+        e31: Somalia
+        e32: Nicaragua
+        e33: Myanmar
+        e34: Syria
+        e35: Yemen
+        e36: Afghanistan
+        e37: North Korea
+        e38: Islamic Republic of Iran
+    b5:
+      e1: What is seifguarding?
+      e2: This is a special procedure prescribed by the British financial regulator to protect client funds. Seifgarding means that all client money must not be kept in VoolaPay, but in special accounts (so-called "client money accounts") at European Central Banks and major banks in Europe and Great Britain. These accounts are separate from other accounts and are completely untouchable.
+  curr:
+    e1: Current Account
+    b1:
+      e1: How to Open a Current Account?
+      e2: You can open a VoolaPay current account remotely. Simply complete a short registration form on our website, and we will guide you on the required documents specific to your account opening.
+    b2:
+      e1: How Quickly Will My Account Be Opened and What Does It Depend On?
+      e2: The speed of account opening depends on how quickly the client provides documents that fully meet the requirements. On average, legal entities can open a VoolaPay current account within 1 business day.
+    b3:
+      e1: How to Top Up Your Account?
+      e2: 'here are several ways to top up your account balance:'
+      u:
+        e1: Transfer funds from another VoolaPay account in your personal cabinet.
+        e2: Transfer funds from an account at another bank.
+        e3: Top up your account with a payment card.
+        e4: Top up your account with supported cryptocurrencies.
+        e5: Top up your account via the StableNFT payment system.
+      e3: Please note that the maximum card top-up amount is €2,000 per transaction and €10,000 from one card per week.
+    b4:
+      e1: I Did Not Receive an SMS Code to Access My Personal Account. What Should I Do?
+      e2: If you have not received an SMS verification code within 5 minutes, request a new SMS code by clicking the "Resend code" button. You should receive a message with the confirmation code within a minute. If this does not resolve the issue, try restarting your device and checking your mobile network. You can also log into your personal account using an alternative method, such as email and G2FA.
+  master:
+    e1: Voola Pay Mastercard
+    b1:
+      e1: How to Order a New Card?
+      e2: You can order a card in your VoolaPay current account. In the left navigation menu, select the "Cards" section, click on the "Order Card" button, fill in the required information, and submit your application. You can also order a card through the VoolaPay mobile app in the "Cards" section.
+    b2:
+      e1: How Many Payment Cards Can I Have?
+      e2: An individual can have up to 3 active cards (including virtual) in their name.
+    b3:
+      e1: Delivery Times and Options for Card Delivery?
+      e2: 'Card delivery is available through two methods:'
+      u:
+        e1: 'Standard postal delivery: 5-12 business days'
+        e2: 'UPS courier service: 1-3 business days'
+      e3: Please note that these are approximate delivery times, and we cannot guarantee a specific delivery date.
+
+business:
+  e1: Business Account with <span>VOOLA PAY</span>
+  acc:
+    b1:
+      e1: Personal Manager and 100% Fund Security
+      e2: Experience fast payments worldwide for European and international businesses. Enjoy the benefits of a personal manager and the complete security of your funds.
+    b2:
+      e1: Open an Account
+      e2: Transfer quickly and without technical limits. We understand how to work with large businesses, so your payments won't get stuck just because they are "big." Payment limits are set according to your company's turnover and specifications.
+    b3:
+      e1: Leverage the Advantages of a UK Account
+      e2: The UK is one of the most reputable jurisdictions worldwide. Transparent and clear financial regulatory rules help businesses thrive. Our client information is fully confidential, while information about our shareholders is open and accessible to everyone.
+  pay:
+    b1:
+      e1: Grow Your Business with Us
+      e2: Utilize our technological solutions and financial instruments, including mass payouts, API integration, salary projects, payment gateways, asset-backed loans, and business deposits.
+    b2:
+      e1: Rest Assured Your Money is Safe
+      e2: In accordance with FCA requirements for security, our clients' funds are protected. Client funds are kept on segregated accounts, separate from Voola Pay' own funds. We carefully select and monitor the credit institutions (banks) used for storing client funds, ensuring they have no rights to the funds held in the accounts. This means that even in the event of bankruptcy of the banks or Voola Pay, our clients' money remains protected.
+    b3:
+      e1: Have Round-the-Clock Control of Your Finances
+      e2: Make contactless payments worldwide with the Voola Pay Mastercard business card in any currency. The payment card and delivery are included in the account opening cost. Use the virtual card for additional security in online transactions. Enjoy the convenience of a mobile wallet for seamless payments.
+    b4:
+      e1: Thousands of satisfied customers from 66 countries worldwide.
+      e2: 7 years of successful fintech market experience.
+      e3: Average account opening time of 9.3 hours for our clients.
+    b5:
+      e1: Enjoy Technological Advancements
+      e2: Use your smartphone instead of a code calculator. Multiple account access with differentiated rights. The iOS/Android mobile app serves both your business account and personal account, allowing you to switch between accounts with a single click.
+  dev:
+    e1: Develop in Your Industry with <span>VOOLA PAY</span>
+    b1:
+      e1: 'Wholesale Trade: Boost Your Turnover'
+      e2: Our managers understand the specifics of goods, invoices, specifications, CMRs, and other accompanying documents. Benefit from payments to/from third countries, including third-country currencies. Enable SEPA Instant payments and other channels. Implement a salary project.
+    b2:
+      e1: 'E-commerce: Develop Your Marketplace'
+      e2: Enjoy fast SEPA Instant payments, enhanced security, and a salary project. Utilize two accounts for administrative activities and payouts. Receive competent technical support and a personal manager.
+    b3:
+      e1: 'Logistics: Save Time and Money'
+      e2: Enjoy straightforward and clear requirements for opening a business account. Make payments to/from third countries without technical limits, including third-country currencies. Our personal managers have expertise in customs documents and transportation specifics, including niche areas such as shipping.Benefit from fast currency conversion at favorable rates. Implement a salary project.
+    b4:
+      e1: 'Fintech: Connect with Ease'
+      e2: Access multiple payment channels, including SEPA and CHAPS. Enjoy a comfortable onboarding process designed specifically for fintech businesses. Utilize an administrative activity account, client funds account in partnership with partners, safeguarding account, and responsive support.
+    b5:
+      e1: 'Gaming: Get Instant Funds'
+      e2: 'Business Account Mass payouts via API and Mastercard debit cards. Business Account Direct integration with SEPA Instant and Open Banking API for quick receipt and sending of payments. Business Account Integration with payment systems instead of card payments: instant merchant settlements with no chargebacks.'
+    b6:
+      e1: Work with Third Countries
+      e2: Accept and send payments to/from third countries. Convert currency at favorable rates directly in your personal cabinet.
+    b7:
+      e1: Rest Assured
+      e2: Voola Pay has been confidently and steadily developing its fintech platform, adding new products and improving existing ones. Our goal is to grow ourselves and help our clients grow.
+
+privacy:
+  e1: Privacy policy
+  b1:
+    e1: Welcome to L7P Ltd ("L7P") Privacy Policy. Please take a moment to read it carefully before providing us with any personal information about you or any other person.
+    e2: L7P (hereinafter "L7P") Privacy Policy. Please take a moment to read it carefully before providing us with any personal information about you or any other person. Sodalitium Limited (hereinafter "Salazar Pay") is a Platform operated by Xward Pay Inc., (hereinafter "XWARD", "we", "our" or "us") and its partners from time to time. For the purposes of data protection law, XWARD is a data controller in respect of the personal data we receive from you, or otherwise collect about you, and we are responsible for ensuring that the use of your personal data is compliant with appFolicable data protection laws ("General Data Protection Regulation"). As the controller of your personal data, we determine the "means" and the "purposes" of any processing activities that are carried out by us.
+    e3: The European representative of XWARD is Afacomp UAB, located A. Tumeno str. 4, 01109 Vilnius, Lithuania.
+  b2:
+    e1: Background
+    e2: We need to collect and use certain types of information about the physical and legal persons that wish to participate in our services.
+    e3: The personal information must be collected and dealt with appropriately in accordance with the company AML Policy and in accordance with this Privacy Policy drawn up in accordance with the GDPR and International standards.
+    e4: In accordance with the provisions of GDPR and International standards, any User who provides his information under the present policy confirms that he understands and accepts the reason for the gathering of information and consents to the processing of information for the purposes of money laundering prevention.
+    e5: Any User is entitled to know who is responsible for the processing of his or her personal data.
+    e6: Any data collected during our business whether it is collected on paper, stored in a computer database, or recorded on other material is subject to this policy and is protected under the applicable law and the GDPR provisions regarding data control and processing.
+  b3:
+    e1: What Does This Policy Cover?
+    e2: This Privacy Policy applies only to your use of our website. The website may contain links to other websites. Please note that we have no control over how your data is collected, stored, or used by other websites and we advise you to check the privacy policies of any such websites before providing any data to them.
+  b4:
+    e1: What is Personal Data?
+    e2: Personal data is defined by the Personal Information Protection and Electronic Documents Act as "any information relating to an identifiable person who can be directly or indirectly identified in particular by reference to an identifier".
+    e3: Personal data is, in simpler terms, any information about you that enables you to be identified. Personal data covers information such as your name and contact details, but it also covers less obvious information such as identification numbers, electronic location data, and other online identifiers.
+  b5:
+    e1: What Data Do We Collect?
+    e2: We collect personal information in the course of its business with you when you apply for the use of our products and/or services. The information is collected with your consent, or as permitted or required by law.
+    e3: 'Depending upon your use of our website, the personal information that you provide or that we ask for and collect could include the following:'
+    e4: 'Identity Data:'
+    u1:
+      e1: first name,
+      e2: last name,
+      e3: title,
+      e4: date of birth and gender,
+      e5: biometric information for facial recognition purposes,
+      e6: I.D documents such as national I.D card, passports, driving licences or other forms of I.D documents.
+    e5: 'Identity Related Data:'
+    u2:
+      e1: risk assessment,
+      e2: compliance assessment.
+    e6: 'Contact Data:'
+    u3:
+      e1: residence details,
+      e2: billing address,
+      e3: delivery address,
+      e4: email address and telephone numbers,
+      e5: proof of address documentation.
+    e7: 'Financial Data:'
+    u4:
+      e1: bank account details,
+      e2: payment card details,
+      e3: amounts associated with accounts,
+      e4: external account details,
+      e5: source of funds and related documentation.
+    e8: 'Transactional Data:'
+    u5:
+      e1: details about incoming and outgoing payments,
+      e2: other details of any transactions you enter using the Services, Website or App.
+    e9: 'Technical Data:'
+    u6:
+      e1: internet connectivity data,
+      e2: IP address,
+      e3: operator and carrier data,
+      e4: login data,
+      e5: browser type and version,
+      e6: device type, category and model,
+      e7: time zone setting and location data,
+      e8: language data,
+      e9: browser plug-in types and versions,
+      e10: operating system and platform,
+      e11: diagnostics data such as crash logs and any other data we collect for the purposes of measuring technical diagnostics, and other information stored on or available regarding the devices you allow us access to when you visit the Website, or use the Services or the App.
+    e10: 'Profile Data:'
+    u7:
+      e1: your username and password,
+      e2: your identification number as our user,
+      e3: requests by you for products or services,
+      e4: your interests, preferences and feedback,
+      e5: other information generated by you when you communicate with our customer support.
+    e11: This information may be collected by way of paper documents, scanned or faxed copies, telephone, emails, verbal interviews, face to face interactions, or data received through our Website or App. This information will include the information collected by us about yourself, and any other individual with whom you deal through us, which include counterparties or senders or beneficiaries of funds or services.
+    e12: We collect this information through our employees, affiliates, and online resources, government agencies, or business partners, or consumer reporting agencies, or may be provided by yourself upfront when you approach us for applying to our services.
+    e13: We do not process "Sensitive Data" except when it comes to biometric data processed for the purpose of uniquely identifying a natural person.
+  b6:
+    e1: How Do We Use Your Personal Data?
+    e2: 'Under the Applicable law, we must always have a lawful basis for using personal data. This may be because the data is necessary for our provision of services to you and
+      the performance of a contract with you, because you have consented to our use of your personal data, or because it is in our legitimate business interests to use it. Your
+      personal data may be used for one of the following purposes:'
+    u:
+      e1: Providing and managing your access to our Website or Application;
+      e2: Supplying our products and services to you;
+      e3: Communicating with you;
+      e4: Maintaining our own accounts and records;
+      e5: Complying with legal and regulatory obligations on our and your behalf; and
+      e6: Analyzing your use of our website to enable us to continually improve it and your user experience.
+  b7:
+    e1: Option Out Right
+    e2: We may use your contact details and information related to your service preferences for marketing and solicitation purposes to send you offers or promotions of us or our affiliates. You may "opt out" or withdraw consent to disclosure of information for the purposes described in this section at any time by contacting us at
+  b8:
+    e1: How Long Will We Keep Your Personal Data?
+    e2: We will keep your personal data for such a period as is required for us to provide services to you, or such a longer period as we may be required to process the data to ensure our compliance with all relevant laws and regulatory obligations to which we are subject.
+  b9:
+    e1: How and Where Do We Store Your Personal Data?
+    e2: 'Personal data is processed both manually and electronically and may be held in a number of different places in line with the operations of a typical business. The locations your personal data could be stored include, but are not limited to:'
+    u:
+      e1: Our databases and CRM;
+      e2: Emails on computers;
+      e3: Mobile phones and tablets;
+      e4: Contact address books;
+      e5: Business cards;
+      e6: Notebooks;
+      e7: Electronic documents on our file servers;
+      e8: Paper files in our offices;
+      e9: Cloud back-up and storage.
+    e3: The security of your personal data is important to us, and to protect your data we use and maintain appropriate technical and organizational measures to protect your personal data and to prevent the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of or access to personal data transmitted, stored or otherwise processed. We have a framework of policies, procedures and training to cover information and cyber security, confidentiality and data protection.
+  b10:
+    e1: Sharing and Transfer of Personal Data
+    e2: We will only disclose personal data to third parties as is necessary to provide our services and/or to comply with your instructions. We may share your personal data with our affiliates and subsidiaries. We do not give or sell your personal information to third parties.
+    e3: In addition, we may be legally required to share certain personal data, which might include yours, if we are involved in legal proceedings or complying with legal obligations, a court order, or the instructions of a government authority.
+    e4: If any of your personal data is required by a third-party, we will take steps to ensure that your personal data is handled safely, securely, and in accordance with your rights, our obligations, and the third-party’s obligations under the law.
+    e5: As some of our external third parties are based outside the EEA, the processing of your personal data may involve a transfer of data outside the EEA.
+    e6: 'Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:'
+    u:
+      e1: the country to which we transfer your personal data has been deemed to provide an adequate level of protection for personal data by the European Commission;
+      e2: a specific contract approved by the European Commission which gives safeguards to the processing of personal data, the so called Standard Contractual Clauses.
+  b11:
+    e1: Confidentiality
+    e2: We maintain physical, electronic, and procedural safeguards to protect personal information against loss, theft, and any form of unauthorized access. Only those who are authorized employees, agents, or representatives that require access to your personal information in order to fulfill their job requirements will have access to the information. Our obligations will become effective only when the information is received by us physically or by its internal systems, but not while it is in transmission out of or to our physical possession or internal systems; because data exchange over the internet or the telephone system or physical mail cannot be guaranteed to be perfectly secure, any personal information you submit to us or access electronically or over the telephone is done at your own risk, and we does not guarantee or warrant the security of information so transmitted to us. You should exercise caution to prevent any third parties, or parties fraudulently posing as us, from unlawfully intercepting your transmissions or causing you to disclose personal information.
+  b12:
+    e1: Consent
+    e2: By using our website, mobile application and related services, you signify your acceptance of our privacy policy.
+    e3: This Privacy Statement provides our intentions regarding your personal information collected by us from you. By providing us with personal information, we will assume your consent to our collection, use and disclosure of such information for the purposes described in this Privacy Policy wherever applicable. Please note that your consent implies the consent to use your email addresses, postal addresses, and other contact resources that you provide to us to communicate with you.
+    e4: 'Your consent may be given in various ways, such as: Orally, electronically or on a document in any form; or implied by voluntarily choosing to use our services; by not withdrawing consent to use your personal information for any identified purpose; by not using an “opt out” option provided for the specified purposes in this statement, if any. Such consent may be given by you directly or by your legal representative.'
+    e5: Withdrawal of your consent will be entirely at your choice at any time, and will be effective, except in cases where we are subject to legal, contractual, regulatory, governmental, and/ or statutory obligations for record maintenance and disclosure; and except in case of transactions already initiated which need the use of your personal information for fulfillment. Note that in case of such withdrawal of consent we may no longer be able to provide certain of our products or services which require your personal information.
+  b13:
+    e1: Your Rights
+    e2: 'Under this Privacy Policy, you have the following rights:'
+    o:
+      e1: The right to be informed about our collection and use of your personal data.
+      e2: The right to access the personal data we hold about you - you have the right to obtain confirmation as to whether we process personal data about you and certain information about how and why we process your personal data.
+      e3: The right to have your personal data amended or rectified if any of your personal data held by us is inaccurate or incomplete.
+      e4: The right to erasure (also known as the right to be forgotten), i.e. the right to ask us to delete or otherwise dispose of any of your personal data that we have.
+      e5: The right to restrict the processing of your personal data.
+      e6: The right to object to us using your personal data for a particular purpose or purposes.
+      e7: The right to data portability. This means that, if you have provided personal data to us directly, we are using it with your consent or for the performance of a contract or the provision of services, and that data is processed using automated means, you can ask us for a copy of that personal data to re-use with another service or business.
+      e8: The right to file a complaint. If you reside in an EEA Member State, you have the right to make a complaint about the way we process your personal data to the supervisory authority in the EEA Member State of your habitual residence, place of work or place of the alleged infringement.
+      e9: Rights relating to automated decision-making and profiling. We do not use your personal data in this way.
+    e3: For more information about our use of your personal data or exercising your rights as outlined above, or if you wish to make a complaint, please contact us at
+  b14:
+    e1: Cookies
+    e2: This section applies to our Website and mobile Application.
+    e3: By accessing the website, you agree that this section will apply whenever you access the website on any device.
+    e4: Any changes to this policy will be posted here. We reserve the right to vary this section from time to time and such changes shall become effective as soon as they are posted. Your continued use of the website constitutes your agreement to all such changes.
+    e5: This policy explains how cookies are used on our website in general and, below, how you can control the cookies that may be used on these sites (not all of them are used on every site).
+  b15:
+    e1: What are cookies and how do we use them?
+    e2: Cookies are small text files stored on your computer by your browser. They're used for many things, such as remembering whether you've visited the site before, so that you remain logged in or to help us work out how many new website visitors we get each month. They contain information about the use of your computer but don't include personal information about you (they don't store your name, for instance).
+    e3: We use cookies to provide the services and features offered on our websites, and to continually enhance the user experience.
+    e4: We may also use Google Analytics to track and analyze our site traffic in order to improve our website functionality by collecting data regarding how, when and where people use or access our website. Google Analytics does not collect personally identifiable data.
+  b16:
+    e1: How can you manage cookies?
+    u1:
+      e1: Removing cookies from your device
+    e2: You can delete all cookies that are already on your device by clearing the browsing history of your browser. This will remove all cookies from all websites you have visited. Be aware though that you may also lose some saved information (e.g. saved login details, site preferences).
+    u2:
+      e1: Managing site-specific cookies
+    e3: For more detailed control over site-specific cookies, check the privacy and cookie settings in your preferred browser.
+    u3:
+      e1: Blocking cookies
+    e4: You can set most modern browsers to prevent any cookies being placed on your device, but you may then have to manually adjust some preferences every time you visit a site/page. And some services and functionalities may not work properly at all (e.g. profile logging-in).
+    u4:
+      e1: Managing our analytics cookies
+    e5: You can manage your preferences concerning cookies when you enter our Website.
+  b17:
+    e1: Changes to this Privacy Policy
+    e2: We may change this Privacy Notice from time to time. This may be necessary, for example, if the law changes, or if we change our business in a way that affects personal data protection.
+    e3: Any changes will be posted on our Website and you will be deemed to have accepted the terms of the Privacy Policy on your first use of our website following the alterations.
+
+footer:
+  e1: Privacy policy
+  e2: Website Terms and Conditions
+  e3: Terms of Use
